@@ -1,0 +1,36 @@
+﻿﻿version,COUNT(client)
+SSH-2.0-libssh-0.1,941
+SSH-2.0-PUTTY,882
+SSH-2.0-libssh2_1.4.1,575
+SSH-2.0-libssh2_1.4.3,101
+SSH-2.0-libssh-0.11,59
+SSH-2.0-libssh-0.2,53
+SSH-2.0-libssh-0.6.0,26
+SSH-2.0-OpenSSH_3.9p1,25
+SSH-2.0-libssh-0.5.2,21
+SSH-2.0-Nmap-SSH2-Hostkey,10
+SSH-2.0-Granados-1.0,9
+SSH-2.0-PuTTY_Release_0.63,8
+SSH-2.0-libssh2_1.6.0,8
+SSH-2.0-OpenSSH_6.8,7
+SSH-2.0-Renci.SshNet.SshClient.0.0.1,7
+"SSH-2.0-OpenSSH_5.5p1 Debian-6",5
+SSH-2.0-JSCH-0.1.51,5
+"SSH-2.0-OpenSSH_5.1p1 Debian-5",4
+SSH-2.0-paramiko_1.15.1,4
+"SSH-2.0-1.90 sshlib: Tunnelier 4.39",4
+"SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2",3
+SSH-2.0-customSSH.2.0x97399c,2
+SSH-2.0-Nmap-SSH2-Enum-Algos,2
+SSH-2.0-libssh-0.5.5,2
+SSH-2.0-PuTTY_Local:_May_14_2009_21:12:18,2
+SSH-2.0-OpenSSH_5.3,1
+SSH-2.0-OpenSSH_4.3,1
+"SSH-2.0-5.27 FlowSsh: Bitvise SSH Client (Tunnelie",1
+SSH-2.0-OpenSSH_4.3p2,1
+SSH-2.0-libssh-0.4.2,1
+"SSH-2.0-5.27 FlowSsh: Bitvise SSH Client (Tunnelie",1
+SSH-2.0-OpenSSH_6.6.1,1
+"SSH-2.0-5.27 FlowSsh: Bitvise SSH Client (Tunnelie",1
+"SSH-2.0-ZGrab ZGrab SSH Survey",1
+SSH-2.0-PuTTY_Release_0.64,1

